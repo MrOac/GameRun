@@ -1,0 +1,90 @@
+
+threeofakind.png
+size: 257,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 148, 64
+  orig: 148, 64
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1, 67
+  size: 144, 59
+  orig: 144, 59
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: false
+  xy: 147, 67
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 225, 1
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 187, 36
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Star_3
+  rotate: false
+  xy: 147, 106
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Star_4
+  rotate: false
+  xy: 151, 41
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Shape1copy
+  rotate: false
+  xy: 227, 54
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+three-of-a-kind
+  rotate: false
+  xy: 225, 26
+  size: 25, 26
+  orig: 26, 27
+  offset: 0, 1
+  index: -1
+Layer3
+  rotate: false
+  xy: 187, 1
+  size: 36, 33
+  orig: 37, 35
+  offset: 0, 1
+  index: -1
+Layer2
+  rotate: false
+  xy: 195, 67
+  size: 30, 45
+  orig: 31, 46
+  offset: 0, 1
+  index: -1
+Layer1
+  rotate: false
+  xy: 151, 1
+  size: 34, 38
+  orig: 35, 39
+  offset: 0, 1
+  index: -1

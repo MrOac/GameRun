@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fe5b304a-4084-482f-8ef8-6bf8cd7ff4d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 350,
+  "height": 345,
+  "platformSettings": {},
+  "subMetas": {
+    "pokemminigame": {
+      "ver": "1.0.4",
+      "uuid": "350a52e3-6463-4531-94f3-a3b09673adcd",
+      "rawTextureUuid": "fe5b304a-4084-482f-8ef8-6bf8cd7ff4d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 7.5,
+      "trimX": 9,
+      "trimY": 0,
+      "width": 339,
+      "height": 330,
+      "rawWidth": 350,
+      "rawHeight": 345,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

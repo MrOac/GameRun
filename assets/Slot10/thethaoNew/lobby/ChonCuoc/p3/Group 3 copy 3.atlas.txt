@@ -1,0 +1,34 @@
+
+Group 3 copy 3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 13
+  rotate: false
+  xy: 2, 2
+  size: 311, 362
+  orig: 311, 362
+  offset: 0, 0
+  index: -1
+Group 23
+  rotate: false
+  xy: 2, 366
+  size: 424, 594
+  orig: 424, 594
+  offset: 0, 0
+  index: -1
+a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg
+  rotate: true
+  xy: 428, 313
+  size: 647, 306
+  orig: 647, 306
+  offset: 0, 0
+  index: -1
+official-uefa-euro-2020-replica-trophy
+  rotate: false
+  xy: 736, 434
+  size: 217, 526
+  orig: 217, 526
+  offset: 0, 0
+  index: -1

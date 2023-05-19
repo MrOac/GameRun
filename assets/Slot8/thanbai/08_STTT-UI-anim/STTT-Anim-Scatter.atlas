@@ -1,0 +1,111 @@
+
+STTT-Anim-Scatter.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 12
+  rotate: true
+  xy: 138, 33
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1
+Group 13
+  rotate: true
+  xy: 258, 40
+  size: 86, 113
+  orig: 86, 113
+  offset: 0, 0
+  index: -1
+Hatsang
+  rotate: false
+  xy: 2, 26
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+Layer 598 copy 3
+  rotate: false
+  xy: 506, 95
+  size: 139, 31
+  orig: 139, 31
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 138, 2
+  size: 158, 29
+  orig: 158, 29
+  offset: 0, 0
+  index: -1
+bright
+  rotate: true
+  xy: 258, 33
+  size: 5, 23
+  orig: 5, 23
+  offset: 0, 0
+  index: -1
+da1
+  rotate: true
+  xy: 804, 89
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+da2
+  rotate: false
+  xy: 373, 64
+  size: 131, 62
+  orig: 131, 62
+  offset: 0, 0
+  index: -1
+da3
+  rotate: false
+  xy: 506, 66
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+da4
+  rotate: true
+  xy: 741, 85
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+da5
+  rotate: false
+  xy: 647, 73
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+daNho1
+  rotate: false
+  xy: 864, 110
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+daNho2
+  rotate: false
+  xy: 494, 51
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+set
+  rotate: true
+  xy: 373, 2
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+textBright
+  rotate: false
+  xy: 2, 2
+  size: 125, 22
+  orig: 125, 22
+  offset: 0, 0
+  index: -1

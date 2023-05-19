@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d5f0602a-610a-4c25-a30c-46886bb46fb7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1937,
+  "height": 958,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_night_club_lady": {
+      "ver": "1.0.4",
+      "uuid": "55f4e5bd-314f-490a-8a6e-fbd1fc751e97",
+      "rawTextureUuid": "d5f0602a-610a-4c25-a30c-46886bb46fb7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 1929,
+      "height": 954,
+      "rawWidth": 1937,
+      "rawHeight": 958,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

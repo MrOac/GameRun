@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "298c336b-541d-420b-b60e-99b20cea1b3b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "angrybirds_symbol_2_2": {
+      "ver": "1.0.4",
+      "uuid": "536edd2f-e885-4d77-9ccd-f08c2305a8a1",
+      "rawTextureUuid": "298c336b-541d-420b-b60e-99b20cea1b3b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -22,
+      "offsetY": 7,
+      "trimX": 10,
+      "trimY": 52,
+      "width": 960,
+      "height": 394,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

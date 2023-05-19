@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>angrybirds_bg.png</key>
+   <dict>
+    <key>frame</key>
+    <string>{{0,722},{1560,720}}</string>
+    <key>offset</key>
+    <string>{0,0}</string>
+    <key>rotated</key>
+    <false/>
+    <key>sourceSize</key>
+    <string>{1560,720}</string>
+   </dict>
+   <key>angrybirds_bg_1.png</key>
+   <dict>
+    <key>frame</key>
+    <string>{{0,0},{1560,720}}</string>
+    <key>offset</key>
+    <string>{0,0}</string>
+    <key>rotated</key>
+    <false/>
+    <key>sourceSize</key>
+    <string>{1560,720}</string>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>2</integer>
+   <key>size</key>
+	<string>{1560,1444}</string>
+   <key>textureFileName</key>
+   <string>slots_angrybirds_bgs.png</string>
+   
+  </dict>
+ </dict>
+</plist>

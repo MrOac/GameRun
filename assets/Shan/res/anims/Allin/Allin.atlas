@@ -1,0 +1,258 @@
+
+Allin.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1/fire1_00000
+  rotate: true
+  xy: 2, 2
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00001
+  rotate: false
+  xy: 1730, 52
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00002
+  rotate: true
+  xy: 66, 2
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00003
+  rotate: false
+  xy: 1772, 52
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00004
+  rotate: true
+  xy: 130, 2
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00005
+  rotate: false
+  xy: 1814, 52
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00006
+  rotate: true
+  xy: 194, 2
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00007
+  rotate: false
+  xy: 1856, 52
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00008
+  rotate: true
+  xy: 258, 2
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00009
+  rotate: false
+  xy: 1898, 52
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00010
+  rotate: true
+  xy: 322, 2
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire1/fire1_00011
+  rotate: false
+  xy: 1940, 52
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+fire2/fire2_00000
+  rotate: false
+  xy: 2, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00001
+  rotate: false
+  xy: 74, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00002
+  rotate: false
+  xy: 146, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00003
+  rotate: false
+  xy: 218, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00004
+  rotate: false
+  xy: 290, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00005
+  rotate: false
+  xy: 362, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00006
+  rotate: false
+  xy: 434, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00007
+  rotate: false
+  xy: 506, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00008
+  rotate: false
+  xy: 578, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00009
+  rotate: false
+  xy: 650, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00010
+  rotate: false
+  xy: 722, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00011
+  rotate: false
+  xy: 794, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00012
+  rotate: false
+  xy: 866, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00013
+  rotate: false
+  xy: 938, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00014
+  rotate: false
+  xy: 1010, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00015
+  rotate: false
+  xy: 1082, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00016
+  rotate: false
+  xy: 1154, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00017
+  rotate: false
+  xy: 1226, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00018
+  rotate: false
+  xy: 1298, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00019
+  rotate: false
+  xy: 1370, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00020
+  rotate: false
+  xy: 1442, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00021
+  rotate: false
+  xy: 1514, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00022
+  rotate: false
+  xy: 1586, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire2/fire2_00023
+  rotate: false
+  xy: 1658, 44
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

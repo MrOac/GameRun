@@ -1,0 +1,97 @@
+
+Jackpot.png
+size: 565,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coins/C_01
+  rotate: false
+  xy: 325, 70
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Coins/C_02
+  rotate: false
+  xy: 385, 70
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Coins/C_03
+  rotate: false
+  xy: 445, 70
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Coins/C_04
+  rotate: false
+  xy: 505, 70
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Coins/C_05
+  rotate: false
+  xy: 316, 10
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Coins/C_06
+  rotate: false
+  xy: 376, 10
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Coins/C_07
+  rotate: false
+  xy: 436, 10
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Coins/C_08
+  rotate: false
+  xy: 496, 10
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+GlowRay_Gradient_01
+  rotate: false
+  xy: 2, 4
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: false
+  xy: 128, 2
+  size: 99, 22
+  orig: 99, 22
+  offset: 0, 0
+  index: -1
+JACKPOT_GLOW
+  rotate: false
+  xy: 128, 85
+  size: 195, 43
+  orig: 195, 43
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 128, 26
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1
+crown_glow
+  rotate: false
+  xy: 222, 26
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1

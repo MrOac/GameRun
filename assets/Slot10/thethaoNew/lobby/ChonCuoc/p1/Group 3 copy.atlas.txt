@@ -1,0 +1,27 @@
+
+Group 3 copy.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: false
+  xy: 1014, 60
+  size: 303, 354
+  orig: 303, 354
+  offset: 0, 0
+  index: -1
+Group 22
+  rotate: true
+  xy: 2, 2
+  size: 412, 579
+  orig: 412, 579
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 583, 26
+  size: 388, 429
+  orig: 388, 429
+  offset: 0, 0
+  index: -1

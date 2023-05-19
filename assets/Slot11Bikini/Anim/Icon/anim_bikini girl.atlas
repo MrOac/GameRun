@@ -1,0 +1,118 @@
+
+anim_bikini girl.png
+size: 1714,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jdau
+  rotate: true
+  xy: 463, 30
+  size: 170, 222
+  orig: 170, 222
+  offset: 0, 0
+  index: -1
+b3
+  rotate: true
+  xy: 1260, 206
+  size: 130, 216
+  orig: 130, 216
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 1260, 338
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 1260, 118
+  size: 200, 86
+  orig: 200, 86
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 1462, 338
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 1478, 136
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+girl1
+  rotate: true
+  xy: 631, 202
+  size: 336, 627
+  orig: 336, 627
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 1207, 41
+  size: 200, 75
+  orig: 200, 75
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: false
+  xy: 1057, 39
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+v2
+  rotate: true
+  xy: 2, 43
+  size: 157, 459
+  orig: 157, 459
+  offset: 0, 0
+  index: -1
+wild
+  rotate: true
+  xy: 1409, 2
+  size: 114, 50
+  orig: 114, 50
+  offset: 0, 0
+  index: -1
+wild_icon
+  rotate: false
+  xy: 687, 13
+  size: 204, 187
+  orig: 204, 187
+  offset: 0, 0
+  index: -1
+wild_icon_dai
+  rotate: true
+  xy: 2, 202
+  size: 336, 627
+  orig: 336, 627
+  offset: 0, 0
+  index: -1
+wilddai
+  rotate: false
+  xy: 1462, 70
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: true
+  xy: 1609, 24
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+xoay 1
+  rotate: false
+  xy: 893, 24
+  size: 162, 176
+  orig: 162, 176
+  offset: 0, 0
+  index: -1

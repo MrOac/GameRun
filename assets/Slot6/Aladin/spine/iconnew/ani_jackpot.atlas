@@ -1,0 +1,27 @@
+
+ani_jackpot.png
+size: 484,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong
+  rotate: true
+  xy: 210, 22
+  size: 210, 208
+  orig: 231, 208
+  offset: 10, 0
+  index: -1
+QuaLe
+  rotate: true
+  xy: 1, 1
+  size: 231, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: true
+  xy: 419, 1
+  size: 231, 62
+  orig: 231, 208
+  offset: 0, 0
+  index: -1

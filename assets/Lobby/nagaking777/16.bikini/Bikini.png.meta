@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8212da08-5630-430e-944c-1d9a09c731c1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1044,
+  "height": 261,
+  "platformSettings": {},
+  "subMetas": {
+    "Bikini": {
+      "ver": "1.0.4",
+      "uuid": "48a458af-2401-4cfc-a898-e07ada3a4396",
+      "rawTextureUuid": "8212da08-5630-430e-944c-1d9a09c731c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -47.5,
+      "offsetY": 0,
+      "trimX": 11,
+      "trimY": 2,
+      "width": 927,
+      "height": 257,
+      "rawWidth": 1044,
+      "rawHeight": 261,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

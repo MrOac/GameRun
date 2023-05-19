@@ -1,0 +1,69 @@
+
+icon_tayduky_1.png
+size: 1126,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1ds
+  rotate: true
+  xy: 58, 9
+  size: 242, 385
+  orig: 252, 396
+  offset: 5, 2
+  index: -1
+Clouds_03
+  rotate: false
+  xy: 913, 80
+  size: 170, 171
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+Monkeyking22
+  rotate: false
+  xy: 445, 2
+  size: 535, 19
+  orig: 535, 19
+  offset: 0, 0
+  index: -1
+anhsang
+  rotate: true
+  xy: 782, 51
+  size: 200, 129
+  orig: 200, 129
+  offset: 0, 0
+  index: -1
+bannertayduky1
+  rotate: true
+  xy: 2, 7
+  size: 244, 54
+  orig: 253, 79
+  offset: 4, 14
+  index: -1
+dau
+  rotate: true
+  xy: 913, 27
+  size: 51, 67
+  orig: 54, 75
+  offset: 1, 5
+  index: -1
+tay_phai
+  rotate: false
+  xy: 1085, 148
+  size: 39, 103
+  orig: 49, 103
+  offset: 3, 0
+  index: -1
+tay_trai
+  rotate: true
+  xy: 982, 9
+  size: 69, 82
+  orig: 75, 84
+  offset: 3, 1
+  index: -1
+than
+  rotate: true
+  xy: 445, 23
+  size: 228, 335
+  orig: 228, 335
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+icon.png
+size: 634,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BORK
+  rotate: false
+  xy: 523, 80
+  size: 84, 31
+  orig: 90, 36
+  offset: 2, 3
+  index: -1
+KDENG
+  rotate: true
+  xy: 578, 117
+  size: 101, 31
+  orig: 106, 36
+  offset: 2, 3
+  index: -1
+ao
+  rotate: false
+  xy: 208, 19
+  size: 170, 199
+  orig: 172, 228
+  offset: 2, 29
+  index: -1
+mat_khep
+  rotate: true
+  xy: 611, 182
+  size: 36, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+mat_nham
+  rotate: true
+  xy: 611, 145
+  size: 35, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+moi
+  rotate: false
+  xy: 611, 130
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+nen
+  rotate: false
+  xy: 2, 14
+  size: 204, 204
+  orig: 206, 207
+  offset: 0, 0
+  index: -1
+sao copy
+  rotate: false
+  xy: 540, 6
+  size: 74, 72
+  orig: 75, 73
+  offset: 1, 1
+  index: -1
+sao
+  rotate: false
+  xy: 540, 6
+  size: 74, 72
+  orig: 75, 73
+  offset: 1, 1
+  index: -1
+tay
+  rotate: false
+  xy: 468, 71
+  size: 53, 147
+  orig: 53, 147
+  offset: 0, 0
+  index: -1
+toac_bay_nho_sau
+  rotate: true
+  xy: 380, 3
+  size: 19, 32
+  orig: 21, 34
+  offset: 1, 1
+  index: -1
+toc_bay_nho_truoc
+  rotate: false
+  xy: 414, 10
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+toc_bay_tren_truoc
+  rotate: true
+  xy: 2, 2
+  size: 10, 30
+  orig: 12, 32
+  offset: 1, 1
+  index: -1
+toc_sau
+  rotate: false
+  xy: 380, 24
+  size: 86, 194
+  orig: 89, 196
+  offset: 2, 1
+  index: -1
+toc_truoc
+  rotate: false
+  xy: 523, 113
+  size: 53, 105
+  orig: 55, 110
+  offset: 1, 1
+  index: -1
+vuong_mien
+  rotate: false
+  xy: 468, 6
+  size: 70, 63
+  orig: 72, 65
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,104 @@
+
+UI_BigWin.png
+size: 1988,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AfterMoney
+  rotate: false
+  xy: 384, 3
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+BeforeMoney
+  rotate: true
+  xy: 1803, 60
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+Diamond
+  rotate: true
+  xy: 483, 27
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 1516, 24
+  size: 285, 155
+  orig: 285, 155
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 682, 181
+  size: 1304, 417
+  orig: 1304, 417
+  offset: 0, 0
+  index: -1
+Led
+  rotate: true
+  xy: 483, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 530, 38
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Spark
+  rotate: false
+  xy: 570, 38
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+TCL
+  rotate: true
+  xy: 384, 78
+  size: 520, 147
+  orig: 520, 147
+  offset: 0, 0
+  index: -1
+TCL_Bright
+  rotate: true
+  xy: 533, 78
+  size: 520, 147
+  orig: 520, 147
+  offset: 0, 0
+  index: -1
+TL
+  rotate: false
+  xy: 682, 20
+  size: 415, 159
+  orig: 415, 159
+  offset: 0, 0
+  index: -1
+TL_Bright
+  rotate: false
+  xy: 1099, 20
+  size: 415, 159
+  orig: 415, 159
+  offset: 0, 0
+  index: -1
+TSL
+  rotate: true
+  xy: 2, 11
+  size: 587, 189
+  orig: 587, 189
+  offset: 0, 0
+  index: -1
+TSL_Bright
+  rotate: true
+  xy: 193, 11
+  size: 587, 189
+  orig: 587, 189
+  offset: 0, 0
+  index: -1

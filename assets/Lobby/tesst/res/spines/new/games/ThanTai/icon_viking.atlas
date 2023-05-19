@@ -1,0 +1,104 @@
+
+icon_viking.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_viking
+  rotate: false
+  xy: 672, 606
+  size: 206, 402
+  orig: 206, 402
+  offset: 0, 0
+  index: -1
+conqua1
+  rotate: false
+  xy: 549, 293
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+conqua2
+  rotate: false
+  xy: 672, 578
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+loptuyet
+  rotate: false
+  xy: 2, 96
+  size: 246, 455
+  orig: 246, 455
+  offset: 0, 0
+  index: -1
+toplight
+  rotate: true
+  xy: 880, 675
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1
+tuyet
+  rotate: false
+  xy: 2, 553
+  size: 668, 455
+  orig: 668, 455
+  offset: 0, 0
+  index: -1
+txt_viking
+  rotate: false
+  xy: 2, 2
+  size: 188, 92
+  orig: 188, 92
+  offset: 0, 0
+  index: -1
+txt_viking_frost
+  rotate: true
+  xy: 549, 363
+  size: 188, 92
+  orig: 188, 92
+  offset: 0, 0
+  index: -1
+underline_viking
+  rotate: true
+  xy: 880, 816
+  size: 192, 136
+  orig: 192, 136
+  offset: 0, 0
+  index: -1
+viking_baptay
+  rotate: false
+  xy: 250, 56
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+viking_dai
+  rotate: false
+  xy: 880, 627
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+viking_daurau
+  rotate: true
+  xy: 250, 150
+  size: 123, 184
+  orig: 123, 184
+  offset: 0, 0
+  index: -1
+viking_longvai
+  rotate: false
+  xy: 436, 143
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+viking_thanduoi
+  rotate: false
+  xy: 250, 275
+  size: 297, 276
+  orig: 297, 276
+  offset: 0, 0
+  index: -1

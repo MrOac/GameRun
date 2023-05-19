@@ -1,0 +1,66 @@
+{
+"skeleton": {
+	"hash": "7275Eva+3VKQdkZ7QQlbIppRf0E",
+	"spine": "3.8.75",
+	"x": -106.45,
+	"y": -102.95,
+	"width": 231,
+	"height": 208,
+	"images": "./images/",
+	"audio": "C:/Users/User1/Desktop/HoaQuaGavin1/qua_tao_xanh/source"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Sao", "parent": "root" },
+	{ "name": "Tao", "parent": "root", "x": -9.33, "y": 0.38 }
+],
+"slots": [
+	{ "name": "Tao", "bone": "Tao", "attachment": "Tao" },
+	{ "name": "Sao", "bone": "Sao", "attachment": "Sao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Sao": {
+				"Sao": { "x": 9.05, "y": 1.05, "width": 231, "height": 208 }
+			},
+			"Tao": {
+				"Tao": { "x": 8.83, "y": 6.63, "scaleX": 0.8142, "scaleY": 0.8142, "width": 231, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"ani_item6_lose": {},
+	"ani_item6_win": {
+		"bones": {
+			"Sao": {
+				"rotate": [
+					{ "angle": 89.08 },
+					{ "time": 0.6667, "angle": -0.6 },
+					{ "time": 1.3333, "angle": -90.12 },
+					{ "time": 2, "angle": 179.23 },
+					{ "time": 2.6667, "angle": 89.08 }
+				],
+				"scale": [
+					{ "x": 1.011, "y": 1.011 },
+					{ "time": 0.6667, "x": 0.714, "y": 0.714 },
+					{ "time": 1.3333, "x": 1.011, "y": 1.011 },
+					{ "time": 2, "x": 0.714, "y": 0.714 },
+					{ "time": 2.6667, "x": 1.011, "y": 1.011 }
+				]
+			},
+			"Tao": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.68, "y": 0.68 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.68, "y": 0.68 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}

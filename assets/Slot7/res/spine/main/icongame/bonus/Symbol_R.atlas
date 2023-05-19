@@ -1,0 +1,132 @@
+
+Symbol_R.png
+size: 644,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 586, 8
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 411, 3
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+B_Bright
+  rotate: false
+  xy: 615, 8
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 281, 6
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Face_Glow
+  rotate: true
+  xy: 432, 145
+  size: 135, 128
+  orig: 135, 128
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: true
+  xy: 281, 129
+  size: 151, 149
+  orig: 151, 149
+  offset: 0, 0
+  index: -1
+Glow_Round
+  rotate: false
+  xy: 2, 2
+  size: 277, 278
+  orig: 277, 278
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 562, 256
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+N_Bright
+  rotate: true
+  xy: 600, 256
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 562, 192
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+O_Bright
+  rotate: false
+  xy: 562, 154
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 587, 205
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+S_Bright
+  rotate: false
+  xy: 587, 167
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Shirt_Front
+  rotate: true
+  xy: 536, 3
+  size: 84, 48
+  orig: 84, 48
+  offset: 0, 0
+  index: -1
+Shirt_Front_Glow
+  rotate: false
+  xy: 536, 89
+  size: 91, 54
+  orig: 91, 54
+  offset: 0, 0
+  index: -1
+U
+  rotate: true
+  xy: 562, 230
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+U_Bright
+  rotate: true
+  xy: 600, 230
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 586, 49
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

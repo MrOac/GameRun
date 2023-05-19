@@ -1,0 +1,139 @@
+
+anim_bikini girl.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 52
+  size: 284, 111
+  orig: 284, 111
+  offset: 0, 0
+  index: -1
+Jdau
+  rotate: true
+  xy: 1139, 305
+  size: 172, 330
+  orig: 172, 330
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 1929, 257
+  size: 84, 139
+  orig: 84, 139
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 662, 70
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 341, 238
+  size: 302, 301
+  orig: 302, 301
+  offset: 0, 0
+  index: -1
+bang1
+  rotate: false
+  xy: 1700, 511
+  size: 284, 111
+  orig: 284, 111
+  offset: 0, 0
+  index: -1
+bang3
+  rotate: false
+  xy: 1739, 398
+  size: 284, 111
+  orig: 284, 111
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 662, 149
+  size: 174, 134
+  orig: 174, 134
+  offset: 0, 0
+  index: -1
+wbody
+  rotate: true
+  xy: 2, 541
+  size: 481, 1146
+  orig: 481, 1146
+  offset: 0, 0
+  index: -1
+wdau
+  rotate: false
+  xy: 2, 165
+  size: 337, 374
+  orig: 337, 374
+  offset: 0, 0
+  index: -1
+wmu
+  rotate: true
+  xy: 1700, 624
+  size: 398, 241
+  orig: 398, 241
+  offset: 0, 0
+  index: -1
+wnguc
+  rotate: true
+  xy: 341, 2
+  size: 234, 319
+  orig: 234, 319
+  offset: 0, 0
+  index: -1
+wphao
+  rotate: false
+  xy: 1150, 479
+  size: 548, 543
+  orig: 548, 543
+  offset: 0, 0
+  index: -1
+wsh
+  rotate: false
+  xy: 1471, 300
+  size: 266, 177
+  orig: 266, 177
+  offset: 0, 0
+  index: -1
+wtay1
+  rotate: false
+  xy: 909, 268
+  size: 228, 271
+  orig: 228, 271
+  offset: 0, 0
+  index: -1
+wtoc1
+  rotate: false
+  xy: 1943, 828
+  size: 80, 194
+  orig: 80, 194
+  offset: 0, 0
+  index: -1
+wtoc2
+  rotate: true
+  xy: 1739, 255
+  size: 141, 188
+  orig: 141, 188
+  offset: 0, 0
+  index: -1
+wtoc3
+  rotate: false
+  xy: 645, 285
+  size: 262, 254
+  orig: 262, 254
+  offset: 0, 0
+  index: -1
+wvai
+  rotate: false
+  xy: 1943, 728
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1

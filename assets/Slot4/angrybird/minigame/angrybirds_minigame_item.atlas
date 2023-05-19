@@ -1,0 +1,237 @@
+
+angrybirds_minigame_item.png
+size: 1934,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Energy 08/Energy 08_00000
+  rotate: false
+  xy: 709, 16
+  size: 44, 44
+  orig: 46, 44
+  offset: 1, 0
+  index: -1
+Energy 08/Energy 08_00001
+  rotate: false
+  xy: 654, 7
+  size: 53, 53
+  orig: 56, 54
+  offset: 1, 0
+  index: -1
+Energy 08/Energy 08_00002
+  rotate: true
+  xy: 1856, 119
+  size: 78, 76
+  orig: 86, 84
+  offset: 8, 8
+  index: -1
+Energy 08/Energy 08_00003
+  rotate: false
+  xy: 787, 2
+  size: 78, 77
+  orig: 100, 100
+  offset: 13, 14
+  index: -1
+Energy 08/Energy 08_00004
+  rotate: true
+  xy: 1048, 9
+  size: 86, 84
+  orig: 90, 90
+  offset: 3, 5
+  index: -1
+Energy 08/Energy 08_00005
+  rotate: false
+  xy: 867, 2
+  size: 77, 77
+  orig: 84, 84
+  offset: 7, 6
+  index: -1
+Flame 10/Flame 10_00000
+  rotate: false
+  xy: 1100, 97
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+Flame 10/Flame 10_00001
+  rotate: false
+  xy: 1355, 97
+  size: 82, 100
+  orig: 85, 100
+  offset: 2, 0
+  index: -1
+Flame 10/Flame 10_00002
+  rotate: true
+  xy: 946, 2
+  size: 84, 100
+  orig: 86, 100
+  offset: 2, 0
+  index: -1
+Flame 10/Flame 10_00003
+  rotate: true
+  xy: 1211, 11
+  size: 84, 96
+  orig: 86, 100
+  offset: 2, 0
+  index: -1
+Flame 10/Flame 10_00004
+  rotate: true
+  xy: 1411, 13
+  size: 82, 99
+  orig: 85, 100
+  offset: 3, 0
+  index: -1
+Flame 10/Flame 10_00005
+  rotate: true
+  xy: 1815, 16
+  size: 80, 99
+  orig: 83, 100
+  offset: 2, 0
+  index: -1
+Flame 10/Flame 10_00006
+  rotate: false
+  xy: 1773, 98
+  size: 81, 99
+  orig: 83, 100
+  offset: 2, 0
+  index: -1
+Flame 10/Flame 10_00007
+  rotate: true
+  xy: 1512, 13
+  size: 82, 99
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+Flame 10/Flame 10_00008
+  rotate: false
+  xy: 1605, 98
+  size: 82, 99
+  orig: 83, 100
+  offset: 1, 0
+  index: -1
+Flame 10/Flame 10_00009
+  rotate: true
+  xy: 1613, 14
+  size: 82, 99
+  orig: 83, 100
+  offset: 1, 0
+  index: -1
+Flame 10/Flame 10_00010
+  rotate: false
+  xy: 1689, 98
+  size: 82, 99
+  orig: 84, 100
+  offset: 2, 0
+  index: -1
+Flame 10/Flame 10_00011
+  rotate: true
+  xy: 1714, 14
+  size: 82, 99
+  orig: 84, 100
+  offset: 1, 0
+  index: -1
+Flame 10/Flame 10_00012
+  rotate: false
+  xy: 1439, 97
+  size: 81, 100
+  orig: 82, 100
+  offset: 1, 0
+  index: -1
+Flame 10/Flame 10_00013
+  rotate: false
+  xy: 1522, 97
+  size: 81, 100
+  orig: 82, 100
+  offset: 1, 0
+  index: -1
+Flame 10/Flame 10_00014
+  rotate: false
+  xy: 1185, 97
+  size: 83, 100
+  orig: 84, 100
+  offset: 1, 0
+  index: -1
+Flame 10/Flame 10_00015
+  rotate: false
+  xy: 1014, 97
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+Flame 10/Flame 10_00016
+  rotate: false
+  xy: 1270, 97
+  size: 83, 100
+  orig: 84, 100
+  offset: 1, 0
+  index: -1
+Flame 10/Flame 10_00017
+  rotate: true
+  xy: 1309, 12
+  size: 83, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+card_back
+  rotate: false
+  xy: 377, 21
+  size: 118, 176
+  orig: 118, 176
+  offset: 0, 0
+  index: -1
+chest_card
+  rotate: false
+  xy: 2, 5
+  size: 123, 192
+  orig: 123, 192
+  offset: 0, 0
+  index: -1
+chest_close
+  rotate: false
+  xy: 787, 81
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+chest_open
+  rotate: false
+  xy: 654, 62
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+chili_back
+  rotate: false
+  xy: 903, 88
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+chili_card
+  rotate: false
+  xy: 127, 5
+  size: 123, 192
+  orig: 123, 192
+  offset: 0, 0
+  index: -1
+chilli
+  rotate: true
+  xy: 1134, 10
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 497, 24
+  size: 155, 173
+  orig: 155, 173
+  offset: 0, 0
+  index: -1
+key_card
+  rotate: false
+  xy: 252, 5
+  size: 123, 192
+  orig: 123, 192
+  offset: 0, 0
+  index: -1

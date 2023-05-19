@@ -1,0 +1,34 @@
+
+win_avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 55
+  size: 190, 185
+  orig: 190, 185
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 194, 64
+  size: 175, 176
+  orig: 175, 176
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 2, 2
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 371, 224
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1

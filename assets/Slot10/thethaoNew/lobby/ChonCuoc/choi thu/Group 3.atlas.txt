@@ -1,0 +1,34 @@
+
+Group 3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 10
+  rotate: false
+  xy: 583, 143
+  size: 303, 353
+  orig: 303, 353
+  offset: 0, 0
+  index: -1
+Group 8
+  rotate: true
+  xy: 2, 84
+  size: 412, 579
+  orig: 412, 579
+  offset: 0, 0
+  index: -1
+Group 9
+  rotate: false
+  xy: 2, 34
+  size: 198, 48
+  orig: 198, 48
+  offset: 0, 0
+  index: -1
+Layer 47 copy 6
+  rotate: false
+  xy: 583, 2
+  size: 144, 139
+  orig: 144, 139
+  offset: 0, 0
+  index: -1

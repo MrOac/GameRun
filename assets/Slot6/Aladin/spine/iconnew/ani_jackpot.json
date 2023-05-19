@@ -1,0 +1,80 @@
+{
+"skeleton": {
+	"hash": "RYGViNH2ld9eZ5OxmK1DSe+MeOY",
+	"spine": "3.8.75",
+	"x": -115.57,
+	"y": -103.81,
+	"width": 231,
+	"height": 208,
+	"images": "./images/",
+	"audio": "C:/Users/User1/Desktop/HoaQuaGavin1/qua_le/source"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "QuaLe", "parent": "root", "x": -1.52, "y": -10.11, "scaleX": 0.8171, "scaleY": 0.8171 },
+	{ "name": "Bong", "parent": "root" },
+	{ "name": "Sao", "parent": "root" }
+],
+"slots": [
+	{ "name": "QuaLe", "bone": "QuaLe", "attachment": "QuaLe" },
+	{ "name": "Bong", "bone": "Bong", "attachment": "Bong", "blend": "additive" },
+	{ "name": "Sao", "bone": "Sao", "attachment": "Sao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Sao": {
+				"Sao": { "x": -0.07, "y": 0.19, "width": 231, "height": 208 }
+			},
+			"Bong": {
+				"Bong": { "x": -0.07, "y": 0.19, "width": 231, "height": 208 }
+			},
+			"QuaLe": {
+				"QuaLe": { "x": -0.07, "y": 12.19, "width": 231, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"ani_jackpot_lose": {},
+	"ani_jackpot_win": {
+		"bones": {
+			"Bong": {
+				"rotate": [
+					{ "angle": 89.74 },
+					{ "time": 0.6667, "angle": 2.29 },
+					{ "time": 1.3333, "angle": -84.04 },
+					{ "time": 2, "angle": -175.94 },
+					{ "time": 2.6667, "angle": 86.29 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.737, "y": 0.737 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.737, "y": 0.737 },
+					{ "time": 2.6667 }
+				]
+			},
+			"QuaLe": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.724, "y": 0.724 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.724, "y": 0.724 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Sao": {
+				"scale": [
+					{ "x": 0.631, "y": 0.631 },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "x": 0.631, "y": 0.631 },
+					{ "time": 2 },
+					{ "time": 2.6667, "x": 0.631, "y": 0.631 }
+				]
+			}
+		}
+	}
+}
+}

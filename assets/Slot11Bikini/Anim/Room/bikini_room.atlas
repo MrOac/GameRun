@@ -1,0 +1,48 @@
+
+bikini_room.png
+size: 1891,691
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 402, 156
+  orig: 402, 156
+  offset: 0, 0
+  index: -1
+bang1
+  rotate: false
+  xy: 406, 2
+  size: 402, 156
+  orig: 402, 156
+  offset: 0, 0
+  index: -1
+bang3
+  rotate: false
+  xy: 1292, 11
+  size: 570, 222
+  orig: 570, 222
+  offset: 0, 0
+  index: -1
+phong1
+  rotate: true
+  xy: 1292, 235
+  size: 454, 597
+  orig: 454, 597
+  offset: 0, 0
+  index: -1
+phong2
+  rotate: false
+  xy: 812, 83
+  size: 478, 606
+  orig: 478, 606
+  offset: 0, 0
+  index: -1
+phong3
+  rotate: true
+  xy: 2, 160
+  size: 529, 808
+  orig: 529, 808
+  offset: 0, 0
+  index: -1

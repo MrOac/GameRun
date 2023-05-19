@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0e0f06cb-fd6e-48d8-b34e-8aa42e2731da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1714,
+  "height": 540,
+  "platformSettings": {},
+  "subMetas": {
+    "anim_bikini girl": {
+      "ver": "1.0.4",
+      "uuid": "14512992-8ecd-47f4-9f86-48079278e43f",
+      "rawTextureUuid": "0e0f06cb-fd6e-48d8-b34e-8aa42e2731da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -2.5,
+      "trimX": 2,
+      "trimY": 7,
+      "width": 1709,
+      "height": 531,
+      "rawWidth": 1714,
+      "rawHeight": 540,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

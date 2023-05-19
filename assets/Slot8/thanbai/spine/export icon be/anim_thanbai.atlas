@@ -1,0 +1,104 @@
+
+anim_thanbai.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 58
+  size: 268, 226
+  orig: 268, 226
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 737, 723
+  size: 326, 295
+  orig: 326, 295
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 737, 324
+  size: 257, 174
+  orig: 257, 174
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1065, 798
+  size: 256, 220
+  orig: 256, 220
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1323, 801
+  size: 159, 217
+  orig: 159, 217
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 737, 500
+  size: 262, 221
+  orig: 262, 221
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 1484, 950
+  size: 208, 68
+  orig: 208, 68
+  offset: 0, 0
+  index: -1
+freespin
+  rotate: false
+  xy: 1065, 744
+  size: 251, 52
+  orig: 251, 52
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 2, 2
+  size: 257, 54
+  orig: 257, 54
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 286
+  size: 733, 732
+  orig: 733, 732
+  offset: 0, 0
+  index: -1
+sang
+  rotate: false
+  xy: 1001, 667
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 1484, 812
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 499, 135
+  size: 149, 222
+  orig: 149, 222
+  offset: 0, 0
+  index: -1
+vong quay
+  rotate: false
+  xy: 272, 63
+  size: 225, 221
+  orig: 225, 221
+  offset: 0, 0
+  index: -1

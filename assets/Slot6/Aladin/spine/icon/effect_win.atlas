@@ -1,0 +1,111 @@
+
+effect_win.png
+size: 1988,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin1
+  rotate: false
+  xy: 1814, 113
+  size: 150, 156
+  orig: 150, 156
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 1366, 64
+  size: 150, 126
+  orig: 150, 156
+  offset: 0, 15
+  index: -1
+coin3
+  rotate: true
+  xy: 1904, 687
+  size: 150, 77
+  orig: 150, 156
+  offset: 0, 39
+  index: -1
+con_buom_cam
+  rotate: false
+  xy: 578, 372
+  size: 441, 465
+  orig: 441, 465
+  offset: 0, 0
+  index: -1
+con_buom_vang
+  rotate: false
+  xy: 1020, 372
+  size: 441, 465
+  orig: 441, 465
+  offset: 0, 0
+  index: -1
+con_buom_xanh
+  rotate: false
+  xy: 1462, 372
+  size: 441, 465
+  orig: 441, 465
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1, 263
+  size: 576, 574
+  orig: 640, 640
+  offset: 32, 33
+  index: -1
+star
+  rotate: true
+  xy: 1543, 1
+  size: 268, 270
+  orig: 270, 270
+  offset: 1, 0
+  index: -1
+star222
+  rotate: false
+  xy: 1814, 26
+  size: 86, 86
+  orig: 94, 95
+  offset: 5, 5
+  index: -1
+txt_nohu
+  rotate: false
+  xy: 1543, 270
+  size: 444, 101
+  orig: 445, 178
+  offset: 1, 30
+  index: -1
+txt_nohu_2
+  rotate: false
+  xy: 578, 245
+  size: 495, 126
+  orig: 497, 230
+  offset: 1, 48
+  index: -1
+txt_thanglon
+  rotate: false
+  xy: 1005, 11
+  size: 360, 179
+  orig: 832, 179
+  offset: 245, 0
+  index: -1
+txt_thanglon_2
+  rotate: false
+  xy: 565, 16
+  size: 439, 228
+  orig: 883, 232
+  offset: 230, 2
+  index: -1
+txt_thangsieulon
+  rotate: false
+  xy: 1074, 191
+  size: 468, 180
+  orig: 1060, 180
+  offset: 301, 0
+  index: -1
+txt_thangsieulon_2
+  rotate: false
+  xy: 1, 35
+  size: 563, 227
+  orig: 1111, 233
+  offset: 268, 4
+  index: -1

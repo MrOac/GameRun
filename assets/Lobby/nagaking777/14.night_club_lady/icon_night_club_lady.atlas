@@ -1,0 +1,111 @@
+
+icon_night_club_lady.png
+size: 1937,958
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+241
+  rotate: false
+  xy: 1680, 571
+  size: 242, 385
+  orig: 252, 396
+  offset: 5, 2
+  index: -1
+Text-LADY
+  rotate: true
+  xy: 1815, 221
+  size: 157, 45
+  orig: 250, 150
+  offset: 46, 53
+  index: -1
+Text-NC
+  rotate: true
+  xy: 1862, 198
+  size: 180, 22
+  orig: 250, 150
+  offset: 35, 60
+  index: -1
+dark
+  rotate: true
+  xy: 1815, 97
+  size: 122, 44
+  orig: 124, 46
+  offset: 1, 1
+  index: -1
+den
+  rotate: false
+  xy: 1790, 99
+  size: 23, 206
+  orig: 29, 212
+  offset: 3, 5
+  index: -1
+den-sang
+  rotate: false
+  xy: 1818, 77
+  size: 70, 18
+  orig: 72, 19
+  offset: 1, 0
+  index: -1
+den-toi
+  rotate: false
+  xy: 1818, 20
+  size: 70, 18
+  orig: 72, 19
+  offset: 1, 0
+  index: -1
+g2-body
+  rotate: false
+  xy: 1815, 380
+  size: 120, 189
+  orig: 154, 189
+  offset: 0, 0
+  index: -1
+g2-eyes
+  rotate: false
+  xy: 1866, 47
+  size: 32, 28
+  orig: 34, 33
+  offset: 1, 3
+  index: -1
+g2-head
+  rotate: false
+  xy: 1680, 307
+  size: 133, 262
+  orig: 225, 262
+  offset: 46, 0
+  index: -1
+g2-sangdai
+  rotate: true
+  xy: 1886, 223
+  size: 155, 18
+  orig: 162, 22
+  offset: 3, 2
+  index: -1
+g2-sangtron
+  rotate: false
+  xy: 1818, 40
+  size: 46, 35
+  orig: 50, 38
+  offset: 3, 1
+  index: -1
+g2-tay
+  rotate: true
+  xy: 1680, 2
+  size: 80, 136
+  orig: 129, 151
+  offset: 4, 6
+  index: -1
+light
+  rotate: false
+  xy: 2, 4
+  size: 1676, 952
+  orig: 1920, 1080
+  offset: 100, 128
+  index: -1
+numberchung2
+  rotate: true
+  xy: 1680, 84
+  size: 221, 108
+  orig: 221, 108
+  offset: 0, 0
+  index: -1

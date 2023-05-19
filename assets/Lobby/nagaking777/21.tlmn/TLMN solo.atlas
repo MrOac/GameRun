@@ -1,0 +1,48 @@
+
+TLMN solo.png
+size: 664,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 375, 141
+  size: 204, 204
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 1, 1
+  size: 344, 373
+  orig: 344, 373
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 375, 6
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 580, 158
+  size: 82, 187
+  orig: 82, 187
+  offset: 0, 0
+  index: -1
+TLMN
+  rotate: true
+  xy: 544, 6
+  size: 134, 38
+  orig: 140, 43
+  offset: 2, 1
+  index: -1
+solo
+  rotate: true
+  xy: 583, 61
+  size: 96, 31
+  orig: 98, 33
+  offset: 1, 1
+  index: -1

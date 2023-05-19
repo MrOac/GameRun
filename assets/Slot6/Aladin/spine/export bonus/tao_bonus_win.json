@@ -1,0 +1,71 @@
+{
+"skeleton": {
+	"hash": "IvP+4GgJRufn+Q0M5fYBXV1XMjc",
+	"spine": "3.8.75",
+	"x": -85.77,
+	"y": -76.47,
+	"width": 172.26,
+	"height": 206.22,
+	"images": "./images/",
+	"audio": "C:/Users/User1/Desktop/HoaQuaGavin1/bonus_thanglon"
+},
+"bones": [
+	{ "name": "root", "x": -46.75, "y": 110.06 },
+	{ "name": "bong", "parent": "root", "x": -85.56, "y": -34.03 },
+	{ "name": "QuaTaoKimCuongOn", "parent": "root", "x": 46.75, "y": -110.06 }
+],
+"slots": [
+	{ "name": "QuaTaoKimCuongOn_clipping", "bone": "QuaTaoKimCuongOn", "attachment": "QuaTaoKimCuongOn_clipping" },
+	{ "name": "QuaTaoKimCuongOn", "bone": "QuaTaoKimCuongOn", "attachment": "QuaTaoKimCuongOn" },
+	{ "name": "bong", "bone": "bong", "attachment": "bong" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bong": {
+				"bong": {
+					"color": "ffffffc2",
+					"x": 9.95,
+					"y": -0.82,
+					"scaleX": 1.4397,
+					"scaleY": 1.4397,
+					"width": 120,
+					"height": 176
+				}
+			},
+			"QuaTaoKimCuongOn": {
+				"QuaTaoKimCuongOn": { "x": 0.04, "y": 26.42, "width": 174, "height": 210 }
+			},
+			"QuaTaoKimCuongOn_clipping": {
+				"QuaTaoKimCuongOn_clipping": {
+					"type": "clipping",
+					"end": "QuaTaoKimCuongOn_clipping",
+					"vertexCount": 46,
+					"vertices": [ -61.41, 58.09, -55.03, 60.7, -44.01, 59.25, -22.26, 65.05, -4.68, 57.5, -13.69, 73.52, -57.14, 107.03, -44.23, 120, -32.8, 115.25, -12.17, 90.37, -5.92, 82.83, 3.47, 114.18, 24.09, 129.75, 53.37, 124.8, 57.08, 107.92, 34.5, 82.38, 1.92, 78.2, 7.88, 67.48, 5.96, 56.02, 19.5, 64.69, 29.36, 62.44, 56.04, 60.7, 66.48, 53.74, 76.34, 40.4, 83.88, 27.06, 86.49, 17.49, 85.33, 2.99, 81.27, -5.42, 74.89, -25.14, 69.96, -32.97, 59.52, -47.47, 51.69, -52.11, 40.96, -60.52, 29.07, -71.83, 18.92, -76.47, 9.35, -76.18, -0.51, -75.02, -14.72, -75.89, -21.39, -75.6, -41.4, -57.04, -55.32, -47.18, -73.59, -24.85, -79.39, -1.94, -85.77, 6.18, -83.74, 25.32, -73.3, 40.11 ],
+					"color": "ce3a3aff"
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"ani_bonus_win": {
+		"bones": {
+			"bong": {
+				"translate": [
+					{},
+					{ "time": 1, "x": 210.38, "y": -134.41 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": -9.37 },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}

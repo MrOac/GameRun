@@ -1,0 +1,180 @@
+{
+"skeleton": { "hash": "OE2o1W330ri3tHYzAMVucK/P9s0", "spine": "3.7.94", "width": 424, "height": 594, "images": "./img/", "audio": "G:/work/Lobby/Chọn phòng/chon phong 1/img" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "official-uefa-euro-2020-replica-trophy", "parent": "root", "length": 348.87, "rotation": 89.86, "x": -1.91, "y": 118.84 },
+	{ "name": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg", "parent": "root", "x": 5.05, "y": 387.67 },
+	{ "name": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg2", "parent": "root", "x": 5.05, "y": 387.67 },
+	{ "name": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg3", "parent": "root", "x": 5.05, "y": 387.67 }
+],
+"slots": [
+	{ "name": "Group 23", "bone": "root", "attachment": "Group 23" },
+	{ "name": "bgr", "bone": "root", "attachment": "bgr" },
+	{ "name": "Group 13", "bone": "root", "attachment": "Group 13" },
+	{ "name": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg", "bone": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg", "attachment": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg" },
+	{ "name": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg2", "bone": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg2", "attachment": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg" },
+	{ "name": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg3", "bone": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg3", "attachment": "a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg" },
+	{ "name": "official-uefa-euro-2020-replica-trophy", "bone": "official-uefa-euro-2020-replica-trophy", "attachment": "official-uefa-euro-2020-replica-trophy" }
+],
+"skins": {
+	"default": {
+		"Group 13": {
+			"Group 13": { "x": -7.9, "y": 367.87, "width": 311, "height": 362 }
+		},
+		"Group 23": {
+			"Group 23": { "x": -5.4, "y": 312.87, "width": 424, "height": 594 }
+		},
+		"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg": {
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg": {
+				"type": "mesh",
+				"uvs": [ 0.88203, 1, 0.43449, 1, 0.43743, 0, 0.87418, 0 ],
+				"triangles": [ 1, 2, 3, 0, 1, 3 ],
+				"vertices": [ 1, 2, 135.23, -163.8, 1, 1, 2, -154.33, -163.8, 1, 1, 2, -152.43, 142.2, 1, 1, 2, 130.15, 142.2, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 4, 6, 6, 0, 4, 2 ],
+				"width": 647,
+				"height": 306
+			}
+		},
+		"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg2": {
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg": {
+				"type": "mesh",
+				"uvs": [ 0.88203, 1, 0.43449, 1, 0.43743, 0, 0.87418, 0 ],
+				"triangles": [ 1, 2, 3, 0, 1, 3 ],
+				"vertices": [ 1, 3, 135.23, -163.8, 1, 1, 3, -154.33, -163.8, 1, 1, 3, -152.43, 142.2, 1, 1, 3, 130.15, 142.2, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 4, 6, 6, 0, 4, 2 ],
+				"width": 647,
+				"height": 306
+			}
+		},
+		"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg3": {
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg": {
+				"type": "mesh",
+				"uvs": [ 0.88203, 1, 0.43449, 1, 0.43743, 0, 0.87418, 0 ],
+				"triangles": [ 1, 2, 3, 0, 1, 3 ],
+				"vertices": [ 1, 4, 135.23, -163.8, 1, 1, 4, -154.33, -163.8, 1, 1, 4, -152.43, 142.2, 1, 1, 4, 130.15, 142.2, 1 ],
+				"hull": 4,
+				"edges": [ 0, 2, 4, 6, 6, 0, 4, 2 ],
+				"width": 647,
+				"height": 306
+			}
+		},
+		"bgr": {
+			"bgr": {
+				"type": "clipping",
+				"end": "bgr",
+				"vertexCount": 4,
+				"vertices": [ -149.26, 533.16, 134.29, 533.69, 139.06, 205.62, -150.98, 205.53 ],
+				"color": "ce3a3aff"
+			}
+		},
+		"official-uefa-euro-2020-replica-trophy": {
+			"official-uefa-euro-2020-replica-trophy": {
+				"type": "mesh",
+				"uvs": [ 1, 0.78969, 0, 0.78969, 0, 0, 1, 0, 0.4924, 0.78969, 0.50012, 0.26873 ],
+				"triangles": [ 5, 2, 3, 1, 2, 5, 4, 1, 5, 5, 3, 0, 4, 5, 0 ],
+				"vertices": [ 1, 1, -12.08, -109.54, 1, 1, 1, -12.62, 107.46, 1, 1, 1, 402.76, 108.49, 1, 1, 1, 403.3, -108.51, 1, 1, 1, -12.35, 0.61, 1, 1, 1, 261.68, -0.39, 1 ],
+				"hull": 4,
+				"edges": [ 4, 6, 2, 4, 0, 6, 0, 8, 8, 2, 8, 10, 0, 2 ],
+				"width": 217,
+				"height": 526
+			}
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg": {
+				"color": [
+					{ "time": 0.6333, "color": "ffffff04" },
+					{ "time": 0.7, "color": "fffffff9" },
+					{ "time": 1, "color": "ffffff04" }
+				]
+			},
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg2": {
+				"color": [
+					{ "time": 0.6333, "color": "ffffff04" },
+					{ "time": 0.7, "color": "fffffff9" },
+					{ "time": 1, "color": "ffffff04" }
+				]
+			},
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg3": {
+				"color": [
+					{ "time": 0.6333, "color": "ffffff04" },
+					{ "time": 0.7, "color": "fffffff9" },
+					{ "time": 1, "color": "ffffff04" }
+				]
+			}
+		},
+		"bones": {
+			"official-uefa-euro-2020-replica-trophy": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.915,
+						"y": 1,
+						"curve": [ 0.216, 0.85, 0.4, 0.99 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.041,
+						"y": 1.075,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1.021,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 1.2, "y": 1.2 },
+					{ "time": 1.1, "x": 2, "y": 2 }
+				]
+			},
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg2": {
+				"rotate": [
+					{ "time": 0.5, "angle": -42.29 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 1.2, "y": 1.2 },
+					{ "time": 1.1, "x": 2, "y": 2 }
+				]
+			},
+			"a3adf4500a3f3512cd493f58451e5e295052472da52b-NQE5qg3": {
+				"rotate": [
+					{ "time": 0.5, "angle": 67.62 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 1.2, "y": 1.2 },
+					{ "time": 1.1, "x": 2, "y": 2 }
+				]
+			}
+		}
+	}
+}
+}

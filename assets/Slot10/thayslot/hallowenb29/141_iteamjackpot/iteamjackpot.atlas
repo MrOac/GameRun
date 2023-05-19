@@ -1,0 +1,118 @@
+
+iteamjackpot.png
+size: 278,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 150, 386
+  size: 138, 126
+  orig: 138, 134
+  offset: 0, 4
+  index: -1
+Layer 11
+  rotate: false
+  xy: 2, 279
+  size: 146, 130
+  orig: 146, 130
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 87
+  size: 143, 135
+  orig: 143, 136
+  offset: 0, 1
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 692
+  size: 158, 148
+  orig: 158, 149
+  offset: 0, 1
+  index: -1
+Layer 14
+  rotate: true
+  xy: 153, 526
+  size: 119, 123
+  orig: 128, 135
+  offset: 5, 6
+  index: -1
+Layer 2
+  rotate: true
+  xy: 162, 647
+  size: 63, 69
+  orig: 74, 77
+  offset: 5, 4
+  index: -1
+Layer 3
+  rotate: true
+  xy: 162, 712
+  size: 91, 94
+  orig: 99, 94
+  offset: 4, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 168, 896
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 150, 135
+  size: 116, 123
+  orig: 136, 139
+  offset: 10, 8
+  index: -1
+Layer 6
+  rotate: true
+  xy: 168, 805
+  size: 89, 95
+  orig: 101, 113
+  offset: 6, 9
+  index: -1
+Layer 7
+  rotate: true
+  xy: 147, 2
+  size: 131, 129
+  orig: 132, 129
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 150, 253
+  size: 131, 126
+  orig: 132, 144
+  offset: 1, 9
+  index: -1
+Layer 9
+  rotate: false
+  xy: 2, 411
+  size: 146, 135
+  orig: 160, 149
+  offset: 7, 7
+  index: -1
+jackpot
+  rotate: false
+  xy: 2, 224
+  size: 146, 53
+  orig: 151, 56
+  offset: 2, 1
+  index: -1
+khungitemJP
+  rotate: false
+  xy: 2, 842
+  size: 164, 157
+  orig: 184, 169
+  offset: 1, 6
+  index: -1
+nhanvat
+  rotate: true
+  xy: 2, 548
+  size: 142, 149
+  orig: 142, 149
+  offset: 0, 0
+  index: -1

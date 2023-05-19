@@ -1,0 +1,139 @@
+
+jackpot_small.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light/lightsmall_00000
+  rotate: false
+  xy: 422, 174
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00012
+  rotate: false
+  xy: 422, 174
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00001
+  rotate: false
+  xy: 422, 120
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00002
+  rotate: false
+  xy: 610, 174
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00003
+  rotate: false
+  xy: 422, 66
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00004
+  rotate: false
+  xy: 610, 120
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00005
+  rotate: false
+  xy: 798, 174
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00006
+  rotate: false
+  xy: 610, 66
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00007
+  rotate: false
+  xy: 798, 120
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00008
+  rotate: false
+  xy: 798, 66
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00009
+  rotate: false
+  xy: 422, 12
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00010
+  rotate: false
+  xy: 610, 12
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+Light/lightsmall_00011
+  rotate: false
+  xy: 798, 12
+  size: 186, 52
+  orig: 186, 52
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: false
+  xy: 2, 96
+  size: 240, 130
+  orig: 240, 130
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 27
+  size: 202, 67
+  orig: 202, 67
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 206, 76
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+light_xoay
+  rotate: true
+  xy: 244, 51
+  size: 175, 176
+  orig: 175, 176
+  offset: 0, 0
+  index: -1
+text_win
+  rotate: false
+  xy: 2, 2
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+text_win_mm
+  rotate: true
+  xy: 986, 122
+  size: 104, 27
+  orig: 104, 27
+  offset: 0, 0
+  index: -1

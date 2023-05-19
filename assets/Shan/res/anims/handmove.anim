@@ -1,0 +1,102 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "handmove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            31.9,
+            -60.7
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.15,
+          "value": [
+            47.4,
+            -33.2
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            63.835,
+            -16.958,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            87.523,
+            -2.758,
+            0
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            108.704,
+            2.123,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            135.527,
+            -5.704,
+            0
+          ]
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": [
+            185.415,
+            -19.565,
+            0
+          ]
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": [
+            185.415,
+            -19.565,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.5833333333333334,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.5833333333333334,
+      "func": "",
+      "params": []
+    }
+  ]
+}

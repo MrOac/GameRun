@@ -1,0 +1,41 @@
+
+icon_tlmn.png
+size: 376,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 189, 37
+  size: 181, 181
+  orig: 183, 181
+  offset: 1, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 1, 219
+  size: 344, 373
+  orig: 344, 373
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1, 1
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1, 136
+  size: 82, 187
+  orig: 82, 187
+  offset: 0, 0
+  index: -1
+TLMN
+  rotate: false
+  xy: 170, 1
+  size: 137, 35
+  orig: 140, 43
+  offset: 0, 1
+  index: -1

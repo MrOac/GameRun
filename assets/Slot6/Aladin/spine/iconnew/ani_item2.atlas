@@ -1,0 +1,27 @@
+
+ani_item2.png
+size: 572,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong
+  rotate: false
+  xy: 233, 1
+  size: 211, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+Qua Sung
+  rotate: false
+  xy: 1, 1
+  size: 231, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: true
+  xy: 445, 56
+  size: 153, 124
+  orig: 155, 126
+  offset: 1, 1
+  index: -1

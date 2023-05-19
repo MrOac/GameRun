@@ -1,0 +1,41 @@
+
+wild_expand.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W1
+  rotate: false
+  xy: 2, 2
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 583, 212
+  size: 33, 103
+  orig: 33, 103
+  offset: 0, 0
+  index: -1
+W3
+  rotate: false
+  xy: 90, 4
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+W4
+  rotate: false
+  xy: 583, 317
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+borderFire
+  rotate: true
+  xy: 2, 106
+  size: 309, 579
+  orig: 309, 579
+  offset: 0, 0
+  index: -1

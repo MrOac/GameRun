@@ -1,0 +1,62 @@
+
+Shan8.png
+size: 412,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: true
+  xy: 126, 207
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Polygon 1
+  rotate: false
+  xy: 47, 220
+  size: 21, 21
+  orig: 22, 23
+  offset: 1, 1
+  index: -1
+Polygon 1 copy
+  rotate: true
+  xy: 2, 221
+  size: 20, 21
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Polygon 1 copy 3
+  rotate: true
+  xy: 95, 213
+  size: 28, 29
+  orig: 30, 31
+  offset: 1, 1
+  index: -1
+Polygon 1 copy 4
+  rotate: false
+  xy: 25, 221
+  size: 20, 20
+  orig: 20, 21
+  offset: 0, 1
+  index: -1
+Polygon 1 copy 5
+  rotate: false
+  xy: 70, 218
+  size: 23, 23
+  orig: 24, 25
+  offset: 1, 1
+  index: -1
+Shan
+  rotate: false
+  xy: 2, 2
+  size: 408, 169
+  orig: 418, 169
+  offset: 1, 0
+  index: -1
+Shape 1
+  rotate: false
+  xy: 172, 173
+  size: 200, 68
+  orig: 200, 68
+  offset: 0, 0
+  index: -1

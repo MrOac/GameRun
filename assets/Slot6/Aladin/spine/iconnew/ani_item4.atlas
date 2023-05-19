@@ -1,0 +1,27 @@
+
+ani_item4.png
+size: 676,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QuaDua
+  rotate: false
+  xy: 1, 1
+  size: 231, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+SaoTren
+  rotate: false
+  xy: 233, 1
+  size: 231, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+VongTrangTo
+  rotate: false
+  xy: 465, 1
+  size: 210, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1

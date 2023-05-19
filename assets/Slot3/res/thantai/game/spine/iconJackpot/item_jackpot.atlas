@@ -1,0 +1,41 @@
+
+item_jackpot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jack1
+  rotate: false
+  xy: 2, 32
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+jack2
+  rotate: false
+  xy: 156, 98
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+jack3
+  rotate: false
+  xy: 310, 91
+  size: 145, 143
+  orig: 145, 143
+  offset: 0, 0
+  index: -1
+jack4
+  rotate: false
+  xy: 2, 83
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+star222
+  rotate: true
+  xy: 167, 2
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1

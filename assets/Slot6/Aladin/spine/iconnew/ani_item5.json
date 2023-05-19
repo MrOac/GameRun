@@ -1,0 +1,66 @@
+{
+"skeleton": {
+	"hash": "PKo4tmdkfO+IlkOgwR2jnqBmJcA",
+	"spine": "3.8.75",
+	"x": -106.01,
+	"y": -102.02,
+	"width": 231,
+	"height": 208,
+	"images": "./images/",
+	"audio": "C:/Users/User1/Desktop/HoaQuaGavin1/qua_luu/source"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "QuaLuu", "parent": "root", "x": -1.21, "y": -4.77, "scaleX": 0.7941, "scaleY": 0.7941 },
+	{ "name": "BongTrangTren", "parent": "root" }
+],
+"slots": [
+	{ "name": "QuaLuu", "bone": "QuaLuu", "attachment": "QuaLuu" },
+	{ "name": "BongTrangTren", "bone": "BongTrangTren", "attachment": "BongTrangTren" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BongTrangTren": {
+				"BongTrangTren": { "x": 9.49, "y": 1.98, "width": 231, "height": 208 }
+			},
+			"QuaLuu": {
+				"QuaLuu": { "x": -2.12, "y": -0.69, "width": 231, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"ani_item5_lose": {},
+	"ani_item5_win": {
+		"bones": {
+			"QuaLuu": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.762, "y": 0.762 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.762, "y": 0.762 },
+					{ "time": 2.6667 }
+				]
+			},
+			"BongTrangTren": {
+				"rotate": [
+					{ "angle": 88.14 },
+					{ "time": 0.6667, "angle": -177.38 },
+					{ "time": 1.3333, "angle": -93.78 },
+					{ "time": 2, "angle": -3.98 },
+					{ "time": 2.6667, "angle": 85.83 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.749, "y": 0.749 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.749, "y": 0.749 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}

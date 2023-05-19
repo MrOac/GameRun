@@ -1,0 +1,102 @@
+
+effect win euro.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 154
+  rotate: true
+  xy: 2, 148
+  size: 283, 638
+  orig: 283, 638
+  offset: 0, 0
+  index: -1
+Group 155
+  rotate: false
+  xy: 2, 433
+  size: 809, 207
+  orig: 809, 207
+  offset: 0, 0
+  index: -1
+Group 157
+  rotate: false
+  xy: 2, 642
+  size: 997, 280
+  orig: 997, 280
+  offset: 0, 0
+  index: -1
+Group 159
+  rotate: true
+  xy: 1798, 1498
+  size: 508, 229
+  orig: 508, 229
+  offset: 0, 0
+  index: -1
+Group 160
+  rotate: true
+  xy: 1397, 1246
+  size: 760, 244
+  orig: 760, 244
+  offset: 0, 0
+  index: -1
+Group 161
+  rotate: false
+  xy: 2, 2
+  size: 628, 144
+  orig: 628, 144
+  offset: 0, 0
+  index: -1
+Group 162
+  rotate: true
+  xy: 1643, 1238
+  size: 768, 153
+  orig: 768, 153
+  offset: 0, 0
+  index: -1
+Group 163
+  rotate: true
+  xy: 1188, 1059
+  size: 947, 207
+  orig: 947, 207
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 924
+  size: 1184, 1082
+  orig: 1184, 1082
+  offset: 0, 0
+  index: -1
+
+effect win euro2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: false
+  xy: 2, 1025
+  size: 1022, 1001
+  orig: 1022, 1001
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 1022, 1021
+  orig: 1022, 1021
+  offset: 0, 0
+  index: -1
+
+effect win euro3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 4
+  rotate: false
+  xy: 2, 2
+  size: 1186, 1058
+  orig: 1186, 1058
+  offset: 0, 0
+  index: -1

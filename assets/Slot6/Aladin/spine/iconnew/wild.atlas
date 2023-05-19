@@ -1,0 +1,27 @@
+
+wild.png
+size: 560,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: true
+  xy: 233, 2
+  size: 207, 172
+  orig: 210, 174
+  offset: 1, 1
+  index: -1
+textWild
+  rotate: true
+  xy: 406, 34
+  size: 175, 151
+  orig: 177, 153
+  offset: 1, 1
+  index: -1
+wild
+  rotate: false
+  xy: 1, 1
+  size: 231, 208
+  orig: 233, 210
+  offset: 1, 1
+  index: -1

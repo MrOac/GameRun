@@ -1,0 +1,307 @@
+
+dealer_shan_koe_mee_myanmar.png
+size: 207,969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanTayPhai
+  rotate: false
+  xy: 119, 13
+  size: 48, 30
+  orig: 48, 36
+  offset: 0, 4
+  index: -1
+BanTayTraiCamBai
+  rotate: false
+  xy: 2, 18
+  size: 47, 39
+  orig: 47, 46
+  offset: 0, 4
+  index: -1
+Bubble Invite Bet
+  rotate: false
+  xy: 2, 918
+  size: 175, 49
+  orig: 175, 49
+  offset: 0, 0
+  index: -1
+Bubble Stop Bet
+  rotate: false
+  xy: 2, 867
+  size: 175, 49
+  orig: 175, 49
+  offset: 0, 0
+  index: -1
+CanhTayPhai22
+  rotate: false
+  xy: 2, 59
+  size: 60, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+Card
+  rotate: true
+  xy: 119, 45
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Card Box
+  rotate: true
+  xy: 147, 644
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+Card Trash
+  rotate: true
+  xy: 146, 433
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+ChiaBaiPhai
+  rotate: false
+  xy: 156, 762
+  size: 49, 103
+  orig: 51, 105
+  offset: 0, 0
+  index: -1
+Dau1
+  rotate: true
+  xy: 2, 461
+  size: 92, 142
+  orig: 92, 155
+  offset: 0, 13
+  index: -1
+Dau2
+  rotate: true
+  xy: 2, 771
+  size: 94, 152
+  orig: 94, 152
+  offset: 0, 0
+  index: -1
+Dau3
+  rotate: true
+  xy: 2, 677
+  size: 92, 143
+  orig: 92, 143
+  offset: 0, 0
+  index: -1
+LaBai
+  rotate: true
+  xy: 169, 11
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+MatNham
+  rotate: true
+  xy: 181, 150
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+MatTrungBinh
+  rotate: true
+  xy: 144, 83
+  size: 39, 18
+  orig: 41, 18
+  offset: 1, 0
+  index: -1
+Mieng2
+  rotate: false
+  xy: 179, 910
+  size: 26, 19
+  orig: 30, 29
+  offset: 2, 3
+  index: -1
+Mieng3
+  rotate: true
+  xy: 94, 3
+  size: 34, 17
+  orig: 34, 19
+  offset: 0, 1
+  index: -1
+Mieng4
+  rotate: false
+  xy: 113, 441
+  size: 30, 18
+  orig: 33, 21
+  offset: 2, 0
+  index: -1
+Ta_1
+  rotate: false
+  xy: 77, 88
+  size: 65, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+Ta_2
+  rotate: false
+  xy: 172, 41
+  size: 31, 31
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Ta_3
+  rotate: false
+  xy: 181, 210
+  size: 19, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Ta_4
+  rotate: true
+  xy: 179, 889
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Ta_5
+  rotate: true
+  xy: 179, 867
+  size: 20, 23
+  orig: 20, 25
+  offset: 0, 2
+  index: -1
+Ta_6
+  rotate: false
+  xy: 181, 193
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+TayPhai
+  rotate: false
+  xy: 100, 231
+  size: 90, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 2, 555
+  size: 120, 142
+  orig: 124, 146
+  offset: 3, 2
+  index: -1
+Than_tay_ao
+  rotate: false
+  xy: 146, 514
+  size: 59, 128
+  orig: 144, 157
+  offset: 79, 7
+  index: -1
+Than_tay_ao2
+  rotate: false
+  xy: 179, 931
+  size: 26, 36
+  orig: 144, 157
+  offset: 111, 7
+  index: -1
+Trai1
+  rotate: false
+  xy: 2, 290
+  size: 96, 33
+  orig: 96, 35
+  offset: 0, 2
+  index: -1
+Trai111
+  rotate: true
+  xy: 172, 74
+  size: 74, 33
+  orig: 96, 35
+  offset: 22, 2
+  index: -1
+Trai1A
+  rotate: false
+  xy: 2, 258
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+Trai2
+  rotate: false
+  xy: 2, 325
+  size: 100, 32
+  orig: 100, 40
+  offset: 0, 8
+  index: -1
+Trai2A
+  rotate: false
+  xy: 2, 136
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+Trai3
+  rotate: false
+  xy: 2, 359
+  size: 106, 51
+  orig: 115, 66
+  offset: 0, 15
+  index: -1
+Trai3A
+  rotate: true
+  xy: 2, 210
+  size: 46, 89
+  orig: 51, 91
+  offset: 2, 0
+  index: -1
+Trai4
+  rotate: true
+  xy: 113, 365
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+Trai4A
+  rotate: true
+  xy: 2, 95
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Trai5
+  rotate: true
+  xy: 2, 412
+  size: 47, 109
+  orig: 58, 110
+  offset: 11, 1
+  index: -1
+Trai6
+  rotate: true
+  xy: 110, 267
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+TraiTim
+  rotate: false
+  xy: 64, 39
+  size: 53, 47
+  orig: 54, 48
+  offset: 0, 1
+  index: -1
+VaiPhai
+  rotate: true
+  xy: 93, 177
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+VaiTrai
+  rotate: true
+  xy: 87, 124
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+vai_phai
+  rotate: true
+  xy: 51, 2
+  size: 35, 41
+  orig: 38, 41
+  offset: 1, 0
+  index: -1

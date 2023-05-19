@@ -1,0 +1,349 @@
+
+UI_Jackpot.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Bright_Blue
+  rotate: false
+  xy: 420, 1932
+  size: 583, 114
+  orig: 583, 114
+  offset: 0, 0
+  index: -1
+BG_Bright_Purple
+  rotate: true
+  xy: 2, 403
+  size: 583, 114
+  orig: 583, 114
+  offset: 0, 0
+  index: -1
+BG_Bright_Red
+  rotate: true
+  xy: 240, 1020
+  size: 583, 114
+  orig: 583, 114
+  offset: 0, 0
+  index: -1
+BG_Bright_Yellow
+  rotate: false
+  xy: 420, 1816
+  size: 583, 114
+  orig: 583, 114
+  offset: 0, 0
+  index: -1
+Board
+  rotate: true
+  xy: 2, 988
+  size: 615, 236
+  orig: 615, 236
+  offset: 0, 0
+  index: -1
+DC_01
+  rotate: false
+  xy: 772, 1474
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_02
+  rotate: true
+  xy: 1505, 1832
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_03
+  rotate: false
+  xy: 356, 1142
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_04
+  rotate: false
+  xy: 729, 1132
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_05
+  rotate: false
+  xy: 729, 1132
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_06
+  rotate: false
+  xy: 118, 646
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_07
+  rotate: false
+  xy: 118, 304
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_08
+  rotate: false
+  xy: 118, 304
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_09
+  rotate: true
+  xy: 127, 88
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_10
+  rotate: true
+  xy: 1005, 1669
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_11
+  rotate: true
+  xy: 988, 1453
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_12
+  rotate: true
+  xy: 945, 1237
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_13
+  rotate: true
+  xy: 945, 1021
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_14
+  rotate: false
+  xy: 1287, 1111
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_15
+  rotate: true
+  xy: 1330, 1453
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_16
+  rotate: false
+  xy: 1503, 1111
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_17
+  rotate: true
+  xy: 1287, 895
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_18
+  rotate: false
+  xy: 1719, 1150
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+DC_19
+  rotate: false
+  xy: 334, 555
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+DC_20
+  rotate: true
+  xy: 334, 341
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+DC_21
+  rotate: false
+  xy: 548, 555
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+DC_22
+  rotate: true
+  xy: 469, 127
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+DC_23
+  rotate: true
+  xy: 674, 341
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+DC_25
+  rotate: false
+  xy: 1672, 1490
+  size: 214, 340
+  orig: 214, 340
+  offset: 0, 0
+  index: -1
+DC_26
+  rotate: false
+  xy: 762, 555
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+DC_27
+  rotate: false
+  xy: 976, 681
+  size: 212, 338
+  orig: 212, 338
+  offset: 0, 0
+  index: -1
+F1
+  rotate: true
+  xy: 420, 1484
+  size: 330, 350
+  orig: 330, 350
+  offset: 0, 0
+  index: -1
+F2
+  rotate: false
+  xy: 2, 1605
+  size: 416, 441
+  orig: 416, 441
+  offset: 0, 0
+  index: -1
+Light_Blue
+  rotate: false
+  xy: 809, 155
+  size: 53, 184
+  orig: 53, 184
+  offset: 0, 0
+  index: -1
+Light_Green
+  rotate: false
+  xy: 1190, 878
+  size: 45, 141
+  orig: 45, 141
+  offset: 0, 0
+  index: -1
+Light_LightBlue
+  rotate: true
+  xy: 976, 635
+  size: 44, 142
+  orig: 44, 142
+  offset: 0, 0
+  index: -1
+Light_Purple
+  rotate: true
+  xy: 356, 1084
+  size: 56, 185
+  orig: 56, 185
+  offset: 0, 0
+  index: -1
+Light_Small_Glow
+  rotate: false
+  xy: 1237, 990
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Light_Small_Glow_2
+  rotate: false
+  xy: 1237, 959
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Light_Small_Glow_3
+  rotate: false
+  xy: 1237, 928
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Light_Yellow
+  rotate: true
+  xy: 1005, 1885
+  size: 161, 498
+  orig: 161, 498
+  offset: 0, 0
+  index: -1
+Shape1
+  rotate: true
+  xy: 1347, 1697
+  size: 186, 128
+  orig: 186, 128
+  offset: 0, 0
+  index: -1
+Shape2
+  rotate: false
+  xy: 307, 13
+  size: 121, 73
+  orig: 121, 73
+  offset: 0, 0
+  index: -1
+Shape3
+  rotate: true
+  xy: 127, 2
+  size: 84, 178
+  orig: 84, 178
+  offset: 0, 0
+  index: -1
+Shape4
+  rotate: false
+  xy: 1847, 1870
+  size: 89, 176
+  orig: 89, 176
+  offset: 0, 0
+  index: -1
+Shape5
+  rotate: false
+  xy: 1629, 903
+  size: 63, 206
+  orig: 63, 206
+  offset: 0, 0
+  index: -1
+SoundWaves_Bright
+  rotate: true
+  xy: 356, 1507
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Title
+  rotate: true
+  xy: 572, 1174
+  size: 308, 155
+  orig: 308, 155
+  offset: 0, 0
+  index: -1
+Title_Bright
+  rotate: true
+  xy: 2, 2
+  size: 300, 123
+  orig: 300, 123
+  offset: 0, 0
+  index: -1

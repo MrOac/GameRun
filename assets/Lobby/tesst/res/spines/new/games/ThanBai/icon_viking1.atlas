@@ -1,0 +1,34 @@
+
+icon_viking1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2a
+  rotate: false
+  xy: 1, 1
+  size: 234, 384
+  orig: 234, 384
+  offset: 0, 0
+  index: -1
+txt_viking
+  rotate: false
+  xy: 1, 387
+  size: 185, 89
+  orig: 188, 92
+  offset: 1, 1
+  index: -1
+txt_viking_frost
+  rotate: false
+  xy: 188, 387
+  size: 185, 88
+  orig: 188, 92
+  offset: 1, 2
+  index: -1
+toplight
+  rotate: false
+  xy: 237, 1
+  size: 139, 98
+  orig: 139, 99
+  offset: 0, 1
+  index: -1

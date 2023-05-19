@@ -1,0 +1,71 @@
+{
+"skeleton": {
+	"hash": "UAfC7cUsqbtslFpYSbn5k7lMlow",
+	"spine": "3.8.75",
+	"x": -112.37,
+	"y": -101.91,
+	"width": 231.45,
+	"height": 218.99,
+	"images": "./images/",
+	"audio": "C:/Users/User1/Desktop/HoaQuaGavin1/freespin/source"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "BongTrangTren", "parent": "root" },
+	{ "name": "Layer 4", "parent": "root", "scaleX": 0.8548, "scaleY": 0.8548 },
+	{ "name": "freespin", "parent": "root", "x": 0.9, "y": -67.35 }
+],
+"slots": [
+	{ "name": "Layer 4", "bone": "Layer 4", "attachment": "Layer 4" },
+	{ "name": "BongTrangTren", "bone": "BongTrangTren", "attachment": "BongTrangTren" },
+	{ "name": "freespin", "bone": "freespin", "attachment": "freespin" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 4": {
+				"Layer 4": { "x": 2.26, "y": 13.82, "width": 231, "height": 208 }
+			},
+			"BongTrangTren": {
+				"BongTrangTren": { "x": 3.13, "y": 2.09, "width": 231, "height": 208 }
+			},
+			"freespin": {
+				"freespin": { "x": 2.68, "y": 80.43, "width": 231, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"ani_scatter_lose": {},
+	"ani_scatter_win": {
+		"bones": {
+			"Layer 4": {
+				"scale": [
+					{ "x": 0.935, "y": 0.935 },
+					{ "time": 0.6667, "x": 0.596, "y": 0.596 },
+					{ "time": 1.3333, "x": 0.935, "y": 0.935 },
+					{ "time": 2, "x": 0.596, "y": 0.596 },
+					{ "time": 2.6667, "x": 0.935, "y": 0.935 }
+				]
+			},
+			"BongTrangTren": {
+				"rotate": [
+					{ "angle": 88.96 },
+					{ "time": 0.6667, "angle": 176.77 },
+					{ "time": 1.3333, "angle": -90.11 },
+					{ "time": 2, "angle": 3.96 },
+					{ "time": 2.6667, "angle": 88.5 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.647, "y": 0.647 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.647, "y": 0.647 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,314 @@
+
+UI_Frame_Jackpot.png
+size: 3681,1513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Au1
+  rotate: true
+  xy: 2, 2
+  size: 13, 54
+  orig: 13, 54
+  offset: 0, 0
+  index: -1
+Au2
+  rotate: true
+  xy: 58, 2
+  size: 13, 46
+  orig: 13, 46
+  offset: 0, 0
+  index: -1
+Au3
+  rotate: true
+  xy: 106, 2
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+Au4
+  rotate: true
+  xy: 145, 2
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+Au5
+  rotate: true
+  xy: 174, 2
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Au6
+  rotate: true
+  xy: 193, 2
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+Au7
+  rotate: true
+  xy: 204, 2
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+LightFrame
+  rotate: true
+  xy: 3606, 13
+  size: 414, 73
+  orig: 414, 73
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00001
+  rotate: true
+  xy: 2, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00002
+  rotate: true
+  xy: 2, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00003
+  rotate: false
+  xy: 2, 17
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00004
+  rotate: true
+  xy: 414, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00005
+  rotate: true
+  xy: 414, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00006
+  rotate: false
+  xy: 544, 17
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00007
+  rotate: true
+  xy: 826, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00008
+  rotate: true
+  xy: 826, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00009
+  rotate: false
+  xy: 1086, 17
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00010
+  rotate: true
+  xy: 1238, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00011
+  rotate: true
+  xy: 1238, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00012
+  rotate: false
+  xy: 1628, 17
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00013
+  rotate: true
+  xy: 1650, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00014
+  rotate: true
+  xy: 1650, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00015
+  rotate: true
+  xy: 2062, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00016
+  rotate: true
+  xy: 2062, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00017
+  rotate: false
+  xy: 2170, 17
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00018
+  rotate: true
+  xy: 2474, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00019
+  rotate: true
+  xy: 2474, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00020
+  rotate: false
+  xy: 2712, 17
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00021
+  rotate: true
+  xy: 3254, 971
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx/Comp 2_00022
+  rotate: true
+  xy: 3254, 429
+  size: 540, 410
+  orig: 540, 410
+  offset: 0, 0
+  index: -1
+fx_saber/Saber_Multiply_00
+  rotate: false
+  xy: 2886, 713
+  size: 350, 86
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_01
+  rotate: false
+  xy: 3254, 160
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_02
+  rotate: false
+  xy: 3254, 71
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_03
+  rotate: false
+  xy: 2886, 1424
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_04
+  rotate: false
+  xy: 3254, 339
+  size: 350, 88
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_05
+  rotate: false
+  xy: 2886, 1335
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_06
+  rotate: false
+  xy: 2886, 1246
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_07
+  rotate: false
+  xy: 2886, 1157
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_08
+  rotate: false
+  xy: 2886, 1068
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_09
+  rotate: false
+  xy: 3254, 249
+  size: 350, 88
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_10
+  rotate: false
+  xy: 2886, 979
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_11
+  rotate: false
+  xy: 2886, 890
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_12
+  rotate: false
+  xy: 2886, 625
+  size: 350, 86
+  orig: 350, 110
+  offset: 0, 1
+  index: -1
+fx_saber/Saber_Multiply_13
+  rotate: false
+  xy: 2886, 801
+  size: 350, 87
+  orig: 350, 110
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+Allin_BG.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_allin
+  rotate: false
+  xy: 286, 5
+  size: 128, 33
+  orig: 128, 33
+  offset: 0, 0
+  index: -1
+light_xoay_00000
+  rotate: false
+  xy: 2, 54
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00001
+  rotate: true
+  xy: 54, 106
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00002
+  rotate: true
+  xy: 106, 106
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00003
+  rotate: false
+  xy: 2, 2
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00004
+  rotate: false
+  xy: 144, 54
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00005
+  rotate: true
+  xy: 158, 106
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00006
+  rotate: true
+  xy: 210, 106
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00007
+  rotate: true
+  xy: 262, 106
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00008
+  rotate: false
+  xy: 144, 2
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00009
+  rotate: false
+  xy: 314, 196
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00010
+  rotate: true
+  xy: 456, 106
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00011
+  rotate: false
+  xy: 314, 144
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00012
+  rotate: false
+  xy: 314, 92
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00013
+  rotate: false
+  xy: 286, 40
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+light_xoay_00014
+  rotate: true
+  xy: 2, 106
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1

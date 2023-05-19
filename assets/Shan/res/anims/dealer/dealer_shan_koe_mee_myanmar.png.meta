@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4dd0eb1d-c4fb-4962-b143-f94ba5044202",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 207,
+  "height": 969,
+  "platformSettings": {},
+  "subMetas": {
+    "dealer_shan_koe_mee_myanmar": {
+      "ver": "1.0.4",
+      "uuid": "5c2f146d-c6c5-414c-bbd1-0cbdf707edee",
+      "rawTextureUuid": "4dd0eb1d-c4fb-4962-b143-f94ba5044202",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 203,
+      "height": 965,
+      "rawWidth": 207,
+      "rawHeight": 969,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

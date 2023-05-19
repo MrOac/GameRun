@@ -1,0 +1,27 @@
+
+model.png
+size: 861,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 701, 62
+  size: 158, 327
+  orig: 158, 327
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 701, 28
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+Levels 1
+  rotate: true
+  xy: 2, 2
+  size: 387, 697
+  orig: 387, 697
+  offset: 0, 0
+  index: -1

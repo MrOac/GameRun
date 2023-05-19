@@ -1,0 +1,69 @@
+
+model.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 106
+  rotate: true
+  xy: 747, 256
+  size: 243, 390
+  orig: 243, 390
+  offset: 0, 0
+  index: -1
+Layer 109
+  rotate: false
+  xy: 1398, 306
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+khung 1
+  rotate: true
+  xy: 2, 247
+  size: 252, 743
+  orig: 252, 743
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 1139, 259
+  size: 240, 257
+  orig: 240, 257
+  offset: 0, 0
+  index: -1
+mat nham
+  rotate: false
+  xy: 1651, 458
+  size: 127, 41
+  orig: 127, 41
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 521, 90
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+tay trai
+  rotate: false
+  xy: 521, 160
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 243, 517
+  orig: 243, 517
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 1398, 410
+  size: 251, 89
+  orig: 251, 89
+  offset: 0, 0
+  index: -1

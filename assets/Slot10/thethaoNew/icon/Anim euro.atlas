@@ -1,0 +1,62 @@
+
+Anim euro.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 402
+  size: 595, 586
+  orig: 595, 586
+  offset: 0, 0
+  index: -1
+BONUS
+  rotate: true
+  xy: 742, 461
+  size: 227, 65
+  orig: 227, 65
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: true
+  xy: 843, 752
+  size: 236, 67
+  orig: 236, 67
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 32
+  size: 368, 368
+  orig: 368, 368
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 372, 2
+  size: 205, 187
+  orig: 205, 187
+  offset: 0, 0
+  index: -1
+Quay
+  rotate: false
+  xy: 372, 191
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+d576dd51ff31647136531bb314eb89a7ceb054b9a55c1-rGtOjm
+  rotate: false
+  xy: 599, 690
+  size: 242, 298
+  orig: 242, 298
+  offset: 0, 0
+  index: -1
+official-uefa-euro-2020-replica-trophy
+  rotate: false
+  xy: 599, 432
+  size: 141, 256
+  orig: 141, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+anim_bikini.png
+size: 1784,924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 1084, 417
+  size: 575, 505
+  orig: 575, 505
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 490, 192
+  size: 729, 148
+  orig: 729, 148
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 776, 35
+  size: 445, 155
+  orig: 445, 155
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 1661, 483
+  size: 439, 79
+  orig: 439, 79
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1223, 39
+  size: 439, 79
+  orig: 439, 79
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 1223, 120
+  size: 462, 142
+  orig: 462, 142
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 490, 342
+  size: 592, 580
+  orig: 592, 580
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 2, 2
+  size: 121, 385
+  orig: 121, 385
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 1687, 142
+  size: 95, 120
+  orig: 95, 120
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 389, 2
+  size: 121, 385
+  orig: 121, 385
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 125
+  size: 486, 797
+  orig: 486, 797
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1221, 264
+  size: 474, 151
+  orig: 474, 151
+  offset: 0, 0
+  index: -1

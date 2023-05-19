@@ -1,0 +1,223 @@
+
+UI_Dance.png
+size: 1904,1307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_0
+  rotate: false
+  xy: 1762, 669
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1
+A_Bright
+  rotate: false
+  xy: 1738, 961
+  size: 100, 137
+  orig: 100, 137
+  offset: 0, 0
+  index: -1
+A_Diamond_Bright
+  rotate: false
+  xy: 1410, 81
+  size: 125, 168
+  orig: 125, 168
+  offset: 0, 0
+  index: -1
+C_0
+  rotate: true
+  xy: 1537, 38
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1
+C_Bright
+  rotate: false
+  xy: 1762, 259
+  size: 86, 144
+  orig: 86, 144
+  offset: 0, 0
+  index: -1
+C_Diamond_Bright
+  rotate: true
+  xy: 1537, 138
+  size: 111, 173
+  orig: 111, 173
+  offset: 0, 0
+  index: -1
+D_0
+  rotate: false
+  xy: 1762, 538
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+D_Bright
+  rotate: true
+  xy: 1171, 761
+  size: 96, 165
+  orig: 96, 165
+  offset: 0, 0
+  index: -1
+D_Diamond_Bright
+  rotate: true
+  xy: 586, 814
+  size: 122, 203
+  orig: 122, 203
+  offset: 0, 0
+  index: -1
+Dance_Base
+  rotate: false
+  xy: 819, 1099
+  size: 565, 206
+  orig: 565, 206
+  offset: 0, 0
+  index: -1
+Dance_Glow_Galaxy
+  rotate: false
+  xy: 2, 706
+  size: 582, 230
+  orig: 582, 230
+  offset: 0, 0
+  index: -1
+E_0
+  rotate: false
+  xy: 1712, 120
+  size: 82, 129
+  orig: 82, 129
+  offset: 0, 0
+  index: -1
+E_Bright
+  rotate: false
+  xy: 1832, 1138
+  size: 70, 167
+  orig: 70, 167
+  offset: 0, 0
+  index: -1
+E_Diamond_Bright
+  rotate: false
+  xy: 1738, 1100
+  size: 92, 205
+  orig: 92, 205
+  offset: 0, 0
+  index: -1
+Glow_Blur
+  rotate: false
+  xy: 2, 938
+  size: 815, 367
+  orig: 815, 367
+  offset: 0, 0
+  index: -1
+N_0
+  rotate: false
+  xy: 1762, 405
+  size: 102, 131
+  orig: 102, 131
+  offset: 0, 0
+  index: -1
+N_Bright
+  rotate: false
+  xy: 1796, 128
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+N_Diamond_Bright
+  rotate: false
+  xy: 1762, 800
+  size: 116, 159
+  orig: 116, 159
+  offset: 0, 0
+  index: -1
+dj
+  rotate: true
+  xy: 1171, 859
+  size: 238, 191
+  orig: 238, 191
+  offset: 0, 0
+  index: -1
+fx00
+  rotate: false
+  xy: 2, 2
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx01
+  rotate: false
+  xy: 354, 354
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx02
+  rotate: false
+  xy: 354, 2
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx03
+  rotate: false
+  xy: 1386, 955
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx04
+  rotate: false
+  xy: 819, 747
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx05
+  rotate: false
+  xy: 706, 395
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx06
+  rotate: false
+  xy: 706, 43
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx07
+  rotate: false
+  xy: 1058, 395
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx08
+  rotate: false
+  xy: 1058, 43
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx09
+  rotate: false
+  xy: 1410, 603
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx10
+  rotate: false
+  xy: 1410, 251
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+fx11
+  rotate: false
+  xy: 2, 354
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

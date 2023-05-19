@@ -1,0 +1,13 @@
+
+Text10.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it1
+  rotate: false
+  xy: 2, 2
+  size: 110, 84
+  orig: 110, 84
+  offset: 0, 0
+  index: -1

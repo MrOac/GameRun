@@ -1,0 +1,125 @@
+
+three_of_a_kind.png
+size: 1357,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clubs
+  rotate: false
+  xy: 1313, 75
+  size: 40, 57
+  orig: 42, 59
+  offset: 1, 1
+  index: -1
+Diamonds
+  rotate: false
+  xy: 1263, 10
+  size: 43, 59
+  orig: 45, 61
+  offset: 1, 1
+  index: -1
+Hearts
+  rotate: false
+  xy: 1092, 69
+  size: 45, 60
+  orig: 47, 62
+  offset: 1, 1
+  index: -1
+Polygon 2
+  rotate: false
+  xy: 1030, 69
+  size: 60, 60
+  orig: 68, 68
+  offset: 4, 5
+  index: -1
+Polygon 2 copy
+  rotate: true
+  xy: 1278, 134
+  size: 54, 64
+  orig: 60, 71
+  offset: 3, 4
+  index: -1
+Polygon 2 copy 2
+  rotate: false
+  xy: 1030, 3
+  size: 56, 64
+  orig: 64, 71
+  offset: 4, 4
+  index: -1
+Polygon 2 copy 3
+  rotate: false
+  xy: 1201, 80
+  size: 60, 59
+  orig: 68, 68
+  offset: 4, 5
+  index: -1
+Polygon 2 copy 4
+  rotate: false
+  xy: 1139, 79
+  size: 60, 60
+  orig: 69, 68
+  offset: 4, 5
+  index: -1
+Polygon 2 copy 5
+  rotate: false
+  xy: 1144, 14
+  size: 56, 63
+  orig: 64, 71
+  offset: 4, 5
+  index: -1
+Polygon 2 copy 6
+  rotate: false
+  xy: 1202, 18
+  size: 59, 60
+  orig: 68, 69
+  offset: 5, 5
+  index: -1
+Polygon 2 copy 7
+  rotate: false
+  xy: 1088, 3
+  size: 54, 64
+  orig: 62, 71
+  offset: 4, 4
+  index: -1
+Shape 1
+  rotate: false
+  xy: 2, 10
+  size: 742, 252
+  orig: 744, 254
+  offset: 1, 1
+  index: -1
+Spades
+  rotate: false
+  xy: 1263, 71
+  size: 48, 61
+  orig: 50, 63
+  offset: 1, 1
+  index: -1
+Three
+  rotate: false
+  xy: 746, 131
+  size: 391, 131
+  orig: 393, 133
+  offset: 1, 1
+  index: -1
+a
+  rotate: true
+  xy: 1278, 190
+  size: 72, 77
+  orig: 74, 79
+  offset: 1, 1
+  index: -1
+kind
+  rotate: false
+  xy: 746, 2
+  size: 282, 127
+  orig: 284, 129
+  offset: 1, 1
+  index: -1
+of
+  rotate: true
+  xy: 1139, 141
+  size: 121, 137
+  orig: 123, 139
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,69 @@
+{
+"skeleton": {
+	"hash": "bQUMZcnQYtU8gxPJEU7t3vABqzk",
+	"spine": "3.8.75",
+	"x": -151.82,
+	"y": -152.91,
+	"width": 308.69,
+	"height": 308.69,
+	"images": "./images/",
+	"audio": "C:/Users/User1/Desktop/HoaQuaGavin1/bonus/source"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "BongTrangTren", "parent": "root", "scaleX": 0.6652, "scaleY": 0.6652 },
+	{ "name": "HatDe", "parent": "root", "x": 5.55, "y": -11.1 }
+],
+"slots": [
+	{ "name": "BongTrangTren", "bone": "BongTrangTren", "attachment": "BongTrangTren" },
+	{ "name": "HatDe", "bone": "HatDe", "attachment": "HatDe" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"HatDe": {
+				"HatDe": { "x": -1.33, "y": 14.46, "scaleX": 0.6868, "scaleY": 0.6868, "width": 231, "height": 208 }
+			},
+			"BongTrangTren": {
+				"BongTrangTren": { "x": 3.79, "y": 2.15, "scaleX": 0.4641, "scaleY": 0.4641, "width": 1000, "height": 1000 }
+			}
+		}
+	}
+],
+"animations": {
+	"ani_bonus_lose": {},
+	"ani_bonus_win": {
+		"bones": {
+			"HatDe": {
+				"translate": [
+					{ "x": -5.12, "y": 3.42 }
+				],
+				"scale": [
+					{ "x": 0.915, "y": 0.915 },
+					{ "time": 0.6667, "x": 0.527, "y": 0.527 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.527, "y": 0.527 },
+					{ "time": 2.6667, "x": 0.915, "y": 0.915 }
+				]
+			},
+			"BongTrangTren": {
+				"rotate": [
+					{ "angle": 88.01 },
+					{ "time": 0.6667, "angle": 173.66 },
+					{ "time": 1.3333, "angle": -88.07 },
+					{ "time": 2, "angle": -4.44 },
+					{ "time": 2.6667, "angle": 90.09 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.579, "y": 0.579 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.579, "y": 0.579 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}

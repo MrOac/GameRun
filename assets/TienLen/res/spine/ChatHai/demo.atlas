@@ -1,0 +1,62 @@
+
+demo.png
+size: 498,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 55
+  rotate: false
+  xy: 438, 13
+  size: 48, 67
+  orig: 50, 69
+  offset: 1, 1
+  index: -1
+Layer 56
+  rotate: true
+  xy: 374, 147
+  size: 137, 80
+  orig: 140, 82
+  offset: 1, 1
+  index: -1
+Layer 57
+  rotate: true
+  xy: 292, 17
+  size: 267, 80
+  orig: 270, 82
+  offset: 1, 1
+  index: -1
+Layer 72
+  rotate: true
+  xy: 374, 81
+  size: 64, 62
+  orig: 65, 81
+  offset: 1, 6
+  index: -1
+Layer 73
+  rotate: false
+  xy: 456, 222
+  size: 40, 62
+  orig: 65, 68
+  offset: 13, 3
+  index: -1
+Layer 74
+  rotate: true
+  xy: 374, 26
+  size: 53, 62
+  orig: 60, 68
+  offset: 4, 3
+  index: -1
+ef
+  rotate: false
+  xy: 2, 2
+  size: 288, 282
+  orig: 290, 288
+  offset: 1, 5
+  index: -1
+đánh 2
+  rotate: false
+  xy: 438, 82
+  size: 50, 63
+  orig: 50, 69
+  offset: 0, 3
+  index: -1

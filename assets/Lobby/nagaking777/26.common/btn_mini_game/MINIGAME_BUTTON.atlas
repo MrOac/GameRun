@@ -1,0 +1,48 @@
+
+MINIGAME_BUTTON.png
+size: 336,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 108, 89
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+dice01
+  rotate: true
+  xy: 193, 2
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+dice02
+  rotate: true
+  xy: 275, 32
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 108, 2
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+lightBK
+  rotate: false
+  xy: 216, 91
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+minigame
+  rotate: true
+  xy: 2, 43
+  size: 152, 104
+  orig: 152, 104
+  offset: 0, 0
+  index: -1

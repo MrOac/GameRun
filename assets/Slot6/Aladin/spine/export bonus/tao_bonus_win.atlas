@@ -1,0 +1,20 @@
+
+tao_bonus_win.png
+size: 332,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QuaTaoKimCuongOn
+  rotate: true
+  xy: 1, 3
+  size: 172, 208
+  orig: 174, 210
+  offset: 1, 1
+  index: -1
+bong
+  rotate: false
+  xy: 210, 1
+  size: 118, 174
+  orig: 120, 176
+  offset: 1, 1
+  index: -1

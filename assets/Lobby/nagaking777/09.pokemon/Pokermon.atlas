@@ -1,0 +1,69 @@
+
+Pokermon.png
+size: 1203,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 611
+  rotate: false
+  xy: 1125, 80
+  size: 70, 71
+  orig: 74, 74
+  offset: 2, 2
+  index: -1
+Layer 612
+  rotate: true
+  xy: 1125, 153
+  size: 84, 74
+  orig: 105, 81
+  offset: 19, 6
+  index: -1
+Layer 613
+  rotate: false
+  xy: 240, 27
+  size: 570, 210
+  orig: 1200, 400
+  offset: 315, 95
+  index: -1
+Layer 68 copy
+  rotate: true
+  xy: 877, 2
+  size: 55, 56
+  orig: 58, 59
+  offset: 2, 2
+  index: -1
+bgGem
+  rotate: true
+  xy: 812, 59
+  size: 178, 181
+  orig: 183, 181
+  offset: 3, 0
+  index: -1
+taiphai
+  rotate: false
+  xy: 1125, 17
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+taitrai
+  rotate: true
+  xy: 812, 2
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+thân
+  rotate: true
+  xy: 2, 14
+  size: 223, 236
+  orig: 265, 236
+  offset: 0, 0
+  index: -1
+đuôi
+  rotate: false
+  xy: 995, 13
+  size: 128, 224
+  orig: 128, 224
+  offset: 0, 0
+  index: -1

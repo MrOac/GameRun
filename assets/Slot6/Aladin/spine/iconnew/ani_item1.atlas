@@ -1,0 +1,20 @@
+
+ani_item1.png
+size: 444,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong2
+  rotate: false
+  xy: 232, 1
+  size: 210, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+Xoai
+  rotate: false
+  xy: 1, 2
+  size: 230, 207
+  orig: 231, 208
+  offset: 0, 0
+  index: -1

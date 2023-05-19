@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f308eb3f-cb35-4969-9257-435d16225bdd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 350,
+  "height": 345,
+  "platformSettings": {},
+  "subMetas": {
+    "hoaqua": {
+      "ver": "1.0.4",
+      "uuid": "9afc5c38-d2f9-48e5-be1a-8130ea8548e4",
+      "rawTextureUuid": "f308eb3f-cb35-4969-9257-435d16225bdd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 350,
+      "height": 345,
+      "rawWidth": 350,
+      "rawHeight": 345,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

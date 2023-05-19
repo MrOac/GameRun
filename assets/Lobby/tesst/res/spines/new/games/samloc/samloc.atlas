@@ -1,0 +1,62 @@
+
+samloc.png
+size: 610,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14_bai1
+  rotate: true
+  xy: 343, 103
+  size: 106, 124
+  orig: 109, 126
+  offset: 1, 1
+  index: -1
+14_bai2
+  rotate: true
+  xy: 214, 11
+  size: 83, 111
+  orig: 85, 113
+  offset: 1, 1
+  index: -1
+14_bai3
+  rotate: true
+  xy: 343, 2
+  size: 99, 120
+  orig: 102, 123
+  offset: 1, 2
+  index: -1
+14_bai4
+  rotate: true
+  xy: 214, 96
+  size: 113, 127
+  orig: 115, 129
+  offset: 1, 1
+  index: -1
+14_coin
+  rotate: true
+  xy: 469, 56
+  size: 153, 105
+  orig: 155, 107
+  offset: 1, 1
+  index: -1
+14_lock
+  rotate: false
+  xy: 465, 20
+  size: 101, 34
+  orig: 101, 56
+  offset: 0, 10
+  index: -1
+14_sam
+  rotate: true
+  xy: 576, 97
+  size: 112, 32
+  orig: 112, 52
+  offset: 0, 9
+  index: -1
+WSAMLOC
+  rotate: true
+  xy: 2, 9
+  size: 200, 210
+  orig: 206, 212
+  offset: 3, 2
+  index: -1

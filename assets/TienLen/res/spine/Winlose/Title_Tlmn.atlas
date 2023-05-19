@@ -1,0 +1,55 @@
+
+Title_Tlmn.png
+size: 938,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 903, 29
+  size: 33, 33
+  orig: 38, 38
+  offset: 2, 3
+  index: -1
+1 2
+  rotate: true
+  xy: 2, 2
+  size: 525, 771
+  orig: 527, 773
+  offset: 1, 1
+  index: -1
+la2
+  rotate: false
+  xy: 870, 222
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+nen
+  rotate: true
+  xy: 775, 125
+  size: 402, 93
+  orig: 404, 94
+  offset: 1, 0
+  index: -1
+text
+  rotate: true
+  xy: 870, 325
+  size: 202, 45
+  orig: 211, 66
+  offset: 6, 8
+  index: -1
+thang
+  rotate: false
+  xy: 775, 16
+  size: 126, 46
+  orig: 161, 58
+  offset: 19, 4
+  index: -1
+title 2
+  rotate: false
+  xy: 775, 64
+  size: 161, 59
+  orig: 299, 63
+  offset: 65, 3
+  index: -1

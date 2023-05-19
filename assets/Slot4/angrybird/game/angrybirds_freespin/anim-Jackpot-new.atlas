@@ -1,0 +1,370 @@
+
+anim-Jackpot-new.png
+size: 2016,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P-body
+  rotate: false
+  xy: 1232, 243
+  size: 177, 160
+  orig: 177, 160
+  offset: 0, 0
+  index: -1
+P-body-tren
+  rotate: false
+  xy: 263, 133
+  size: 204, 270
+  orig: 204, 270
+  offset: 0, 0
+  index: -1
+P-moi
+  rotate: true
+  xy: 1904, 30
+  size: 35, 28
+  orig: 37, 29
+  offset: 1, 1
+  index: -1
+P-tayPTruoc
+  rotate: false
+  xy: 1089, 13
+  size: 109, 220
+  orig: 109, 220
+  offset: 0, 0
+  index: -1
+P-tayPhai
+  rotate: true
+  xy: 469, 86
+  size: 123, 201
+  orig: 123, 202
+  offset: 0, 1
+  index: -1
+P-tayTrai
+  rotate: true
+  xy: 1200, 69
+  size: 164, 95
+  orig: 164, 97
+  offset: 0, 2
+  index: -1
+P-tayTraiTruoc
+  rotate: true
+  xy: 263, 75
+  size: 56, 181
+  orig: 58, 183
+  offset: 1, 0
+  index: -1
+P-toc1
+  rotate: true
+  xy: 1200, 27
+  size: 40, 94
+  orig: 42, 95
+  offset: 1, 0
+  index: -1
+P-toc2
+  rotate: true
+  xy: 1696, 8
+  size: 85, 97
+  orig: 91, 101
+  offset: 6, 0
+  index: -1
+P-toc3
+  rotate: false
+  xy: 1934, 51
+  size: 57, 47
+  orig: 60, 58
+  offset: 3, 2
+  index: -1
+P-toc4
+  rotate: false
+  xy: 1757, 115
+  size: 76, 83
+  orig: 81, 89
+  offset: 1, 5
+  index: -1
+P-toc5
+  rotate: false
+  xy: 1965, 117
+  size: 34, 75
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+P-toc6
+  rotate: true
+  xy: 1297, 44
+  size: 51, 84
+  orig: 53, 89
+  offset: 1, 0
+  index: -1
+P-tocP
+  rotate: false
+  xy: 1582, 229
+  size: 20, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+P-tocP2
+  rotate: false
+  xy: 1795, 23
+  size: 35, 73
+  orig: 36, 73
+  offset: 1, 0
+  index: -1
+P-tocP3
+  rotate: true
+  xy: 1200, 3
+  size: 22, 65
+  orig: 23, 68
+  offset: 1, 3
+  index: -1
+T-bodyDuoi
+  rotate: false
+  xy: 1623, 283
+  size: 210, 120
+  orig: 210, 120
+  offset: 0, 0
+  index: -1
+T-dau
+  rotate: true
+  xy: 1383, 70
+  size: 146, 161
+  orig: 173, 161
+  offset: 15, 0
+  index: -1
+T-dayao
+  rotate: false
+  xy: 1396, 2
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+T-moi
+  rotate: true
+  xy: 1904, 67
+  size: 36, 28
+  orig: 38, 29
+  offset: 1, 0
+  index: -1
+T-tayphai
+  rotate: true
+  xy: 253, 8
+  size: 65, 179
+  orig: 66, 183
+  offset: 1, 1
+  index: -1
+T-tayphaiNgoai
+  rotate: true
+  xy: 1411, 278
+  size: 125, 210
+  orig: 125, 210
+  offset: 0, 0
+  index: -1
+T-taytrai
+  rotate: true
+  xy: 1835, 105
+  size: 85, 102
+  orig: 88, 102
+  offset: 3, 0
+  index: -1
+T-thantren
+  rotate: true
+  xy: 732, 2
+  size: 227, 197
+  orig: 227, 214
+  offset: 0, 0
+  index: -1
+T-toc1
+  rotate: true
+  xy: 571, 4
+  size: 80, 92
+  orig: 80, 93
+  offset: 0, 1
+  index: -1
+T-toc2
+  rotate: false
+  xy: 446, 71
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+T-toc3
+  rotate: true
+  xy: 1834, 63
+  size: 40, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+T-toc4
+  rotate: false
+  xy: 1939, 100
+  size: 24, 90
+  orig: 24, 92
+  offset: 0, 2
+  index: -1
+T-toc5
+  rotate: true
+  xy: 1757, 98
+  size: 15, 75
+  orig: 15, 76
+  offset: 0, 0
+  index: -1
+T-tocsau
+  rotate: true
+  xy: 1296, 2
+  size: 40, 98
+  orig: 43, 102
+  offset: 1, 4
+  index: -1
+dau
+  rotate: true
+  xy: 1835, 279
+  size: 124, 174
+  orig: 156, 184
+  offset: 0, 10
+  index: -1
+lv1-100-80
+  rotate: true
+  xy: 1696, 95
+  size: 121, 59
+  orig: 123, 59
+  offset: 1, 0
+  index: -1
+lv1-bg
+  rotate: false
+  xy: 931, 2
+  size: 156, 227
+  orig: 156, 228
+  offset: 0, 0
+  index: -1
+lv1-body
+  rotate: false
+  xy: 2, 96
+  size: 259, 307
+  orig: 343, 307
+  offset: 0, 0
+  index: -1
+lv1-coAo
+  rotate: false
+  xy: 2, 15
+  size: 249, 79
+  orig: 249, 79
+  offset: 0, 0
+  index: -1
+lv1-dau
+  rotate: false
+  xy: 1546, 56
+  size: 148, 160
+  orig: 148, 160
+  offset: 0, 0
+  index: -1
+lv1-no1
+  rotate: false
+  xy: 1623, 218
+  size: 134, 63
+  orig: 134, 63
+  offset: 0, 0
+  index: -1
+lv1-no2
+  rotate: true
+  xy: 469, 6
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+lv1-toc1
+  rotate: false
+  xy: 469, 211
+  size: 261, 192
+  orig: 261, 192
+  offset: 0, 0
+  index: -1
+lv1-toc2
+  rotate: false
+  xy: 1952, 194
+  size: 62, 83
+  orig: 64, 84
+  offset: 0, 1
+  index: -1
+lv1-toc5
+  rotate: true
+  xy: 1759, 200
+  size: 81, 74
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+lv1-toc6
+  rotate: true
+  xy: 1835, 192
+  size: 85, 115
+  orig: 85, 119
+  offset: 0, 2
+  index: -1
+lv1-toc8
+  rotate: false
+  xy: 1297, 97
+  size: 84, 144
+  orig: 85, 147
+  offset: 1, 1
+  index: -1
+lv1-tocmai1
+  rotate: false
+  xy: 434, 30
+  size: 10, 43
+  orig: 10, 43
+  offset: 0, 0
+  index: -1
+lv1-tocmai2
+  rotate: true
+  xy: 1519, 6
+  size: 48, 86
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+lv1-tocmai3
+  rotate: false
+  xy: 1445, 4
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+lv1-tocmai4
+  rotate: false
+  xy: 1832, 23
+  size: 62, 38
+  orig: 71, 39
+  offset: 8, 1
+  index: -1
+lv1-tocmai5
+  rotate: false
+  xy: 1607, 16
+  size: 78, 38
+  orig: 82, 39
+  offset: 4, 1
+  index: -1
+lv2-1k-80-125
+  rotate: false
+  xy: 1411, 218
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+lv2-bg
+  rotate: true
+  xy: 983, 235
+  size: 168, 247
+  orig: 169, 249
+  offset: 1, 0
+  index: -1
+lv3-10k-80
+  rotate: true
+  xy: 672, 12
+  size: 197, 58
+  orig: 197, 58
+  offset: 0, 0
+  index: -1
+lv3-bg
+  rotate: true
+  xy: 732, 231
+  size: 172, 249
+  orig: 173, 250
+  offset: 1, 0
+  index: -1

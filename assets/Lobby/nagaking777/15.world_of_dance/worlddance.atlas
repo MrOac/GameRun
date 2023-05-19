@@ -1,0 +1,391 @@
+
+worlddance.png
+size: 2462,798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 354, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 706, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 706, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 706, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 706, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 706, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1058, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1410, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1762, 446
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 94
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 354, 94
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 706, 94
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1058, 94
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1410, 94
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+241
+  rotate: false
+  xy: 2114, 71
+  size: 252, 396
+  orig: 252, 396
+  offset: 0, 0
+  index: -1
+Group 65
+  rotate: false
+  xy: 2114, 469
+  size: 257, 327
+  orig: 257, 327
+  offset: 0, 0
+  index: -1
+dance
+  rotate: false
+  xy: 1961, 7
+  size: 244, 62
+  orig: 244, 62
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 2322, 11
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+e1 copy
+  rotate: false
+  xy: 2373, 479
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 1961, 160
+  size: 146, 51
+  orig: 146, 51
+  offset: 0, 0
+  index: -1
+equalizer_00
+  rotate: false
+  xy: 1522, 36
+  size: 113, 56
+  orig: 113, 56
+  offset: 0, 0
+  index: -1
+equalizer_01
+  rotate: false
+  xy: 1637, 36
+  size: 113, 56
+  orig: 113, 56
+  offset: 0, 0
+  index: -1
+equalizer_02
+  rotate: false
+  xy: 1752, 17
+  size: 113, 37
+  orig: 113, 37
+  offset: 0, 0
+  index: -1
+equalizer_03
+  rotate: false
+  xy: 2207, 8
+  size: 113, 61
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 1762, 56
+  size: 197, 388
+  orig: 197, 388
+  offset: 0, 0
+  index: -1
+girl_dance_00
+  rotate: false
+  xy: 182, 5
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+girl_dance_01
+  rotate: false
+  xy: 271, 5
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+girl_dance_02
+  rotate: true
+  xy: 2368, 379
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_03
+  rotate: true
+  xy: 2373, 708
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_04
+  rotate: false
+  xy: 627, 6
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+girl_dance_05
+  rotate: false
+  xy: 718, 6
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+girl_dance_06
+  rotate: false
+  xy: 808, 6
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+girl_dance_07
+  rotate: true
+  xy: 2373, 618
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_08
+  rotate: true
+  xy: 2373, 528
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_09
+  rotate: false
+  xy: 360, 5
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+girl_dance_10
+  rotate: true
+  xy: 2368, 289
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_11
+  rotate: false
+  xy: 449, 5
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+girl_dance_12
+  rotate: false
+  xy: 538, 5
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+girl_dance_13
+  rotate: true
+  xy: 2368, 199
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_14
+  rotate: true
+  xy: 2368, 109
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_15
+  rotate: true
+  xy: 2368, 19
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_16
+  rotate: false
+  xy: 1961, 71
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_17
+  rotate: false
+  xy: 2, 5
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_18
+  rotate: false
+  xy: 92, 5
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+girl_dance_19
+  rotate: false
+  xy: 898, 6
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+girl_dance_20
+  rotate: false
+  xy: 988, 6
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+girl_dance_21
+  rotate: false
+  xy: 1077, 6
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+girl_dance_22
+  rotate: false
+  xy: 1166, 6
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+girl_dance_23
+  rotate: false
+  xy: 1255, 6
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+girl_dance_24
+  rotate: false
+  xy: 1344, 6
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+girl_dance_25
+  rotate: false
+  xy: 1433, 6
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: true
+  xy: 2428, 477
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 2352, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+numberchung2
+  rotate: true
+  xy: 1961, 213
+  size: 231, 114
+  orig: 231, 114
+  offset: 0, 0
+  index: -1

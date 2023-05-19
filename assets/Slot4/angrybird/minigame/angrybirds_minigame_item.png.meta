@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7ec46d10-76c3-443b-8f6c-76e586a3092c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1934,
+  "height": 199,
+  "platformSettings": {},
+  "subMetas": {
+    "angrybirds_minigame_item": {
+      "ver": "1.0.4",
+      "uuid": "e8d8a302-bdea-4b65-be6d-debc8fd8fd5d",
+      "rawTextureUuid": "7ec46d10-76c3-443b-8f6c-76e586a3092c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 4,
+      "width": 1928,
+      "height": 193,
+      "rawWidth": 1934,
+      "rawHeight": 199,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

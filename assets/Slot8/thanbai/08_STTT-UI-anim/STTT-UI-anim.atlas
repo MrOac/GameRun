@@ -1,0 +1,62 @@
+
+STTT-UI-anim.png
+size: 998,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TienL
+  rotate: false
+  xy: 2, 88
+  size: 450, 102
+  orig: 450, 102
+  offset: 0, 0
+  index: -1
+TienL-vien
+  rotate: false
+  xy: 454, 88
+  size: 450, 102
+  orig: 450, 102
+  offset: 0, 0
+  index: -1
+logo-khoi
+  rotate: false
+  xy: 2, 26
+  size: 357, 60
+  orig: 357, 60
+  offset: 0, 0
+  index: -1
+logo-nui
+  rotate: true
+  xy: 906, 14
+  size: 176, 90
+  orig: 176, 90
+  offset: 0, 0
+  index: -1
+logo-text
+  rotate: false
+  xy: 361, 14
+  size: 261, 72
+  orig: 261, 72
+  offset: 0, 0
+  index: -1
+logo-textBright
+  rotate: false
+  xy: 624, 14
+  size: 261, 72
+  orig: 261, 72
+  offset: 0, 0
+  index: -1
+sp-dot
+  rotate: false
+  xy: 176, 13
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+vetsang
+  rotate: false
+  xy: 2, 2
+  size: 172, 22
+  orig: 172, 22
+  offset: 0, 0
+  index: -1

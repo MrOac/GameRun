@@ -1,0 +1,104 @@
+
+UI_TrialMode.png
+size: 869,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Choithat
+  rotate: false
+  xy: 629, 2
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Choithat_outline
+  rotate: false
+  xy: 692, 2
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Choithu
+  rotate: false
+  xy: 629, 63
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+Choithu_outline
+  rotate: false
+  xy: 629, 63
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+Handle_light
+  rotate: true
+  xy: 825, 89
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Light_cup
+  rotate: false
+  xy: 720, 72
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Light_radial
+  rotate: false
+  xy: 766, 89
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+Real_Cup
+  rotate: false
+  xy: 345, 10
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+Real_Cup_glow
+  rotate: true
+  xy: 2, 13
+  size: 103, 117
+  orig: 103, 117
+  offset: 0, 0
+  index: -1
+Real_Cup_light
+  rotate: false
+  xy: 440, 10
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+Transform
+  rotate: false
+  xy: 121, 10
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+TransformBW
+  rotate: false
+  xy: 233, 10
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+Trial_Cup
+  rotate: false
+  xy: 535, 11
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 766, 49
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

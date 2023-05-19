@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 598,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 373, 19
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 469, 57
+  size: 127, 124
+  orig: 127, 124
+  offset: 0, 0
+  index: -1
+B_Bright
+  rotate: false
+  xy: 508, 27
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 170, 22
+  size: 161, 159
+  orig: 161, 159
+  offset: 0, 0
+  index: -1
+Glow_Round
+  rotate: false
+  xy: 2, 14
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 481, 27
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+N_Bright
+  rotate: false
+  xy: 481, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 402, 22
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+O_Bright
+  rotate: false
+  xy: 532, 31
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 457, 22
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+S_Bright
+  rotate: false
+  xy: 555, 31
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 430, 22
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+U_Bright
+  rotate: false
+  xy: 504, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 333, 53
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 333, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

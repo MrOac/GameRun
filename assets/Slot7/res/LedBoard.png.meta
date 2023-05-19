@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "75cde63a-8a65-4d88-92a0-06478945f13d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 210,
+  "height": 232,
+  "platformSettings": {},
+  "subMetas": {
+    "LedBoard": {
+      "ver": "1.0.4",
+      "uuid": "30c15934-4881-4bc6-975b-be2536f5a605",
+      "rawTextureUuid": "75cde63a-8a65-4d88-92a0-06478945f13d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 209,
+      "height": 232,
+      "rawWidth": 210,
+      "rawHeight": 232,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

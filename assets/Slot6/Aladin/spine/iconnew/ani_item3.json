@@ -1,0 +1,83 @@
+{
+"skeleton": {
+	"hash": "q1FxijPQfs6ugnQY+mQ1n81kSc4",
+	"spine": "3.8.75",
+	"x": -118.13,
+	"y": -107.13,
+	"width": 266.7,
+	"height": 234.37,
+	"images": "./images/",
+	"audio": "C:/Users/User1/Desktop/HoaQuaGavin1/qua_dao/source"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bong", "parent": "root" },
+	{ "name": "sao", "parent": "root", "x": -18.31, "y": -0.16 },
+	{ "name": "QuaDao", "parent": "root", "x": 37.42, "y": 20.63 }
+],
+"slots": [
+	{ "name": "QuaDao", "bone": "QuaDao", "attachment": "QuaDao" },
+	{ "name": "sao", "bone": "sao", "attachment": "sao" },
+	{ "name": "bong", "bone": "bong", "attachment": "bong" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bong": {
+				"bong": { "x": 12.64, "y": 1.04, "width": 231, "height": 208 }
+			},
+			"sao": {
+				"sao": { "x": 16.69, "y": -1.97, "width": 233, "height": 210 }
+			},
+			"QuaDao": {
+				"QuaDao": { "x": -4.34, "y": 2.61, "width": 231, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"ani_item3_lose": {},
+	"ani_item3_win": {
+		"bones": {
+			"QuaDao": {
+				"translate": [
+					{ "x": -34.85, "y": -22.87 }
+				],
+				"scale": [
+					{ "x": 0.698, "y": 0.698 },
+					{ "time": 0.6667, "x": 0.569, "y": 0.569 },
+					{ "time": 1.3333, "x": 0.698, "y": 0.698 },
+					{ "time": 2, "x": 0.569, "y": 0.569 },
+					{ "time": 2.6667, "x": 0.698, "y": 0.698 }
+				]
+			},
+			"bong": {
+				"rotate": [
+					{ "angle": 90.15 },
+					{ "time": 0.6667, "angle": 1.67 },
+					{ "time": 1.3333, "angle": -86.52 },
+					{ "time": 2, "angle": -178.28 },
+					{ "time": 2.6667, "angle": 90.15 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.839, "y": 0.839 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.839, "y": 0.839 },
+					{ "time": 2.6667 }
+				]
+			},
+			"sao": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.774, "y": 0.774 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 0.774, "y": 0.774 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}

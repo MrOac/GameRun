@@ -1,0 +1,83 @@
+
+popup.png
+size: 1434,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 719, 759
+  size: 713, 275
+  orig: 715, 277
+  offset: 1, 1
+  index: -1
+coin2
+  rotate: false
+  xy: 784, 184
+  size: 380, 147
+  orig: 382, 149
+  offset: 1, 1
+  index: -1
+coinV
+  rotate: true
+  xy: 1190, 176
+  size: 581, 198
+  orig: 581, 198
+  offset: 0, 0
+  index: -1
+girl
+  rotate: true
+  xy: 455, 71
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 9
+  size: 477, 41
+  orig: 485, 43
+  offset: 1, 1
+  index: -1
+light
+  rotate: true
+  xy: 2, 314
+  size: 720, 715
+  orig: 722, 722
+  offset: 1, 1
+  index: -1
+stage
+  rotate: false
+  xy: 719, 333
+  size: 469, 424
+  orig: 488, 428
+  offset: 8, 2
+  index: -1
+star
+  rotate: false
+  xy: 2, 52
+  size: 451, 260
+  orig: 453, 262
+  offset: 1, 1
+  index: -1
+txt
+  rotate: false
+  xy: 481, 2
+  size: 424, 67
+  orig: 425, 93
+  offset: 0, 10
+  index: -1
+xe1
+  rotate: false
+  xy: 907, 12
+  size: 188, 162
+  orig: 190, 164
+  offset: 1, 1
+  index: -1
+xe2
+  rotate: false
+  xy: 1097, 12
+  size: 188, 162
+  orig: 191, 164
+  offset: 2, 1
+  index: -1

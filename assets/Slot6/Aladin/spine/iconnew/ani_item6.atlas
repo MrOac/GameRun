@@ -1,0 +1,20 @@
+
+ani_item6.png
+size: 444,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sao
+  rotate: false
+  xy: 233, 1
+  size: 210, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+Tao
+  rotate: false
+  xy: 1, 1
+  size: 231, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1

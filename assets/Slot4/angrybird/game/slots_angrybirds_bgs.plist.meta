@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "67ef1178-f758-4f4e-ab81-5e09cb7d95a2",
+  "rawTextureUuid": "1bfff0f1-4474-4178-8c93-9d65656f6194",
+  "size": {
+    "width": 1560,
+    "height": 1444
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "angrybirds_bg.png": {
+      "ver": "1.0.4",
+      "uuid": "72e6c2b0-55c3-43f3-b2d8-1b3d2a7e81d5",
+      "rawTextureUuid": "1bfff0f1-4474-4178-8c93-9d65656f6194",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 722,
+      "width": 1560,
+      "height": 720,
+      "rawWidth": 1560,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "angrybirds_bg_1.png": {
+      "ver": "1.0.4",
+      "uuid": "7ad04716-516a-4ba7-b026-9776af78f0f6",
+      "rawTextureUuid": "1bfff0f1-4474-4178-8c93-9d65656f6194",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1560,
+      "height": 720,
+      "rawWidth": 1560,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

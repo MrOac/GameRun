@@ -1,0 +1,41 @@
+
+jackpot_big.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 171
+  size: 809, 227
+  orig: 809, 227
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 813, 253
+  size: 650, 145
+  orig: 650, 145
+  offset: 0, 0
+  index: -1
+eng
+  rotate: false
+  xy: 2, 2
+  size: 606, 82
+  orig: 606, 82
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 813, 172
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 2, 86
+  size: 738, 83
+  orig: 738, 83
+  offset: 0, 0
+  index: -1
